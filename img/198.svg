@@ -1,0 +1,32 @@
+<svg viewBox="0 0 250 250" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define a grid of 5x5 squares in different shades of blue -->
+  <rect x="10" y="10" width="40" height="40" fill="rgb(0, 0, 255)" />
+  <rect x="60" y="10" width="40" height="40" fill="rgb(0, 0, 200)" />
+  <rect x="110" y="10" width="40" height="40" fill="rgb(0, 0, 150)" />
+  <rect x="160" y="10" width="40" height="40" fill="rgb(0, 0, 100)" />
+  <rect x="210" y="10" width="40" height="40" fill="rgb(0, 0, 50)" />
+
+  <rect x="10" y="60" width="40" height="40" fill="rgb(0, 100, 255)" />
+  <rect x="60" y="60" width="40" height="40" fill="rgb(0, 100, 200)" />
+  <rect x="110" y="60" width="40" height="40" fill="rgb(0, 100, 150)" />
+  <rect x="160" y="60" width="40" height="40" fill="rgb(0, 100, 100)" />
+  <rect x="210" y="60" width="40" height="40" fill="rgb(0, 100, 50)" />
+
+  <rect x="10" y="110" width="40" height="40" fill="rgb(0, 150, 255)" />
+  <rect x="60" y="110" width="40" height="40" fill="rgb(0, 150, 200)" />
+  <rect x="110" y="110" width="40" height="40" fill="rgb(0, 150, 150)" />
+  <rect x="160" y="110" width="40" height="40" fill="rgb(0, 150, 100)" />
+  <rect x="210" y="110" width="40" height="40" fill="rgb(0, 150, 50)" />
+
+  <rect x="10" y="160" width="40" height="40" fill="rgb(0, 200, 255)" />
+  <rect x="60" y="160" width="40" height="40" fill="rgb(0, 200, 200)" />
+  <rect x="110" y="160" width="40" height="40" fill="rgb(0, 200, 150)" />
+  <rect x="160" y="160" width="40" height="40" fill="rgb(0, 200, 100)" />
+  <rect x="210" y="160" width="40" height="40" fill="rgb(0, 200, 50)" />
+
+  <rect x="10" y="210" width="40" height="40" fill="rgb(0, 255, 255)" />
+  <rect x="60" y="210" width="40" height="40" fill="rgb(0, 255, 200)" />
+  <rect x="110" y="210" width="40" height="40" fill="rgb(0, 255, 150)" />
+  <rect x="160" y="210" width="40" height="40" fill="rgb(0, 255, 100)" />
+  <rect x="210" y="210" width="40" height="40" fill="rgb(0, 255, 50)" />
+</svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sneaker Base -->
+  <rect x="50" y="100" width="156" height="80" rx="20" fill="rgb(240, 240, 240)" stroke="black" stroke-width="2"/>
+
+  <!-- Toe Cap -->
+  <rect x="60" y="110" width="136" height="20" rx="10" fill="rgb(200, 200, 200)" stroke="black" stroke-width="1"/>
+
+  <!-- Lace Area -->
+  <rect x="80" y="130" width="96" height="30" fill="rgb(240, 240, 240)" stroke="black" stroke-width="1"/>
+
+  <!-- Laces -->
+  <line x1="90" y1="135" x2="90" y2="155" stroke="black" stroke-width="2"/>
+  <line x1="110" y1="135" x2="110" y2="155" stroke="black" stroke-width="2"/>
+  <line x1="130" y1="135" x2="130" y2="155" stroke="black" stroke-width="2"/>
+  <line x1="150" y1="135" x2="150" y2="155" stroke="black" stroke-width="2"/>
+
+  <!-- Lace Crossings -->
+  <line x1="90" y1="135" x2="110" y2="145" stroke="black" stroke-width="2"/>
+  <line x1="110" y1="145" x2="130" y2="135" stroke="black" stroke-width="2"/>
+  <line x1="130" y1="135" x2="150" y2="145" stroke="black" stroke-width="2"/>
+
+  <!-- Sole -->
+  <rect x="50" y="170" width="156" height="10" fill="rgb(100, 100, 100)" stroke="black" stroke-width="1"/>
+</svg>

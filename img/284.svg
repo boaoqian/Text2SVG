@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Boot -->
+  <path d="M50,150 L50,200 L100,200 L100,180 L80,180 L80,150 Z" fill="rgb(139, 69, 19)" />
+  <!-- Left Boot Fringe -->
+  <line x1="80" y1="150" x2="80" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="85" y1="150" x2="85" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="90" y1="150" x2="90" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="95" y1="150" x2="95" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="100" y1="150" x2="100" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+
+  <!-- Right Boot -->
+  <path d="M150,150 L150,200 L200,200 L200,180 L180,180 L180,150 Z" fill="rgb(139, 69, 19)" />
+  <!-- Right Boot Fringe -->
+  <line x1="180" y1="150" x2="180" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="185" y1="150" x2="185" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="190" y1="150" x2="190" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="195" y1="150" x2="195" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+  <line x1="200" y1="150" x2="200" y2="180" stroke="rgb(210, 180, 140)" stroke-width="2" />
+</svg>

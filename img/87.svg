@@ -1,0 +1,21 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(173, 216, 230)" />
+      <stop offset="100%" stop-color="rgb(135, 206, 250)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Sandy Desert Ground -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(210, 180, 140)" />
+
+  <!-- Sandy Dunes -->
+  <path d="M0,150 C50,130 100,160 150,140 C200,120 250,150 256,140 V256 H0 Z" fill="rgb(194, 178, 128)" />
+  <path d="M0,170 C50,150 100,180 150,160 C200,140 250,170 256,160 V256 H0 Z" fill="rgb(210, 180, 140)" />
+
+  <!-- Distant Mountain Range -->
+  <polygon points="0,128 50,100 100,120 150,90 200,110 256,128 256,150 200,130 150,150 100,130 50,150 0,150" fill="rgb(139, 69, 19)" />
+  <polygon points="50,100 100,120 150,90 200,110 256,128 256,150 200,130 150,150 100,130 50,150 0,150" fill="rgb(160, 82, 45)" />
+</svg>

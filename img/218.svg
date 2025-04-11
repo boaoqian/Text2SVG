@@ -1,0 +1,15 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Leggings Outline -->
+  <path d="M80,60 C80,40 100,20 128,20 C156,20 176,40 176,60 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="rgb(0, 0, 128)" stroke="black" stroke-width="2"/>
+
+  <!-- High Waistband -->
+  <rect x="80" y="20" width="96" height="20" fill="rgb(0, 0, 128)" stroke="black" stroke-width="2"/>
+
+  <!-- Stripes on Leggings -->
+  <rect x="80" y="80" width="96" height="10" fill="white"/> <!-- White -->
+  <rect x="80" y="100" width="96" height="10" fill="rgb(0, 0, 128)"/> <!-- Navy -->
+  <rect x="80" y="120" width="96" height="10" fill="white"/> <!-- White -->
+  <rect x="80" y="140" width="96" height="10" fill="rgb(0, 0, 128)"/> <!-- Navy -->
+  <rect x="80" y="160" width="96" height="10" fill="white"/> <!-- White -->
+  <rect x="80" y="180" width="96" height="10" fill="rgb(0, 0, 128)"/> <!-- Navy -->
+</svg>

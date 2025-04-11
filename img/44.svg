@@ -1,0 +1,26 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(255, 223, 186)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Sandy Desert Base Layer -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(244, 164, 96)" />
+
+  <!-- Sandy Path -->
+  <path d="M50,150 C100,140 150,160 200,150 L200,256 L50,256 Z" fill="rgb(210, 180, 140)" />
+
+  <!-- Small Dunes -->
+  <ellipse cx="50" cy="150" rx="30" ry="10" fill="rgb(210, 180, 140)" />
+  <ellipse cx="200" cy="150" rx="30" ry="10" fill="rgb(210, 180, 140)" />
+
+  <!-- Rocks -->
+  <circle cx="30" cy="200" r="5" fill="rgb(139, 69, 19)" />
+  <circle cx="100" cy="220" r="5" fill="rgb(139, 69, 19)" />
+  <circle cx="180" cy="210" r="5" fill="rgb(139, 69, 19)" />
+  <circle cx="220" cy="230" r="5" fill="rgb(139, 69, 19)" />
+</svg>

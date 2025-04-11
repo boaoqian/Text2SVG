@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Sandal -->
+  <rect x="50" y="150" width="60" height="20" fill="rgb(139, 69, 19)" /> <!-- Sole -->
+  <rect x="70" y="130" width="20" height="20" fill="rgb(139, 69, 19)" /> <!-- Heel -->
+  <rect x="80" y="110" width="10" height="20" fill="rgb(139, 69, 19)" /> <!-- Strap -->
+  <circle cx="85" cy="120" r="5" fill="rgb(255, 215, 0)" /> <!-- Jewel -->
+
+  <!-- Right Sandal -->
+  <rect x="150" y="150" width="60" height="20" fill="rgb(139, 69, 19)" /> <!-- Sole -->
+  <rect x="170" y="130" width="20" height="20" fill="rgb(139, 69, 19)" /> <!-- Heel -->
+  <rect x="180" y="110" width="10" height="20" fill="rgb(139, 69, 19)" /> <!-- Strap -->
+  <circle cx="185" cy="120" r="5" fill="rgb(255, 215, 0)" /> <!-- Jewel -->
+</svg>

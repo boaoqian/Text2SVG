@@ -1,0 +1,16 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Overalls Outline -->
+  <path d="M80,80 C80,40 100,20 128,20 C156,20 176,40 176,80 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="none" stroke="black" stroke-width="2"/>
+
+  <!-- Bib Front -->
+  <path d="M100,60 L100,140 C100,150 110,160 128,160 C146,160 156,150 156,140 L156,60 Z" fill="rgb(0, 0, 128)" stroke="black" stroke-width="2"/>
+
+  <!-- Straps -->
+  <path d="M100,60 L80,20" stroke="black" stroke-width="2"/>
+  <path d="M156,60 L176,20" stroke="black" stroke-width="2"/>
+
+  <!-- Buttons on Bib -->
+  <circle cx="128" cy="90" r="4" fill="white" stroke="black" stroke-width="1"/>
+  <circle cx="128" cy="110" r="4" fill="white" stroke="black" stroke-width="1"/>
+  <circle cx="128" cy="130" r="4" fill="white" stroke="black" stroke-width="1"/>
+</svg>

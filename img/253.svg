@@ -1,0 +1,17 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sandal Base -->
+  <rect x="50" y="180" width="156" height="20" fill="rgb(139, 69, 19)" />
+  <rect x="50" y="160" width="156" height="20" fill="rgb(139, 69, 19)" />
+
+  <!-- Gladiator Straps -->
+  <rect x="60" y="50" width="10" height="130" fill="rgb(210, 180, 140)" />
+  <rect x="100" y="50" width="10" height="130" fill="rgb(210, 180, 140)" />
+  <rect x="140" y="50" width="10" height="130" fill="rgb(210, 180, 140)" />
+  <rect x="180" y="50" width="10" height="130" fill="rgb(210, 180, 140)" />
+
+  <!-- Sandal Toe Strap -->
+  <rect x="50" y="140" width="156" height="10" fill="rgb(210, 180, 140)" />
+
+  <!-- Sandal Heel Strap -->
+  <rect x="50" y="200" width="156" height="10" fill="rgb(210, 180, 140)" />
+</svg>

@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left high heel -->
+  <path d="M50,200 C50,180 70,150 100,150 C130,150 150,180 150,200 L150,250 C150,260 130,256 100,256 C70,256 50,260 50,250 Z" fill="black" stroke="black" stroke-width="2"/>
+  
+  <!-- Right high heel -->
+  <path d="M160,200 C160,180 180,150 210,150 C240,150 260,180 260,200 L260,250 C260,260 240,256 210,256 C180,256 160,260 160,250 Z" fill="black" stroke="black" stroke-width="2"/>
+  
+  <!-- Left high heel strap -->
+  <rect x="80" y="180" width="40" height="10" fill="gold"/>
+  
+  <!-- Right high heel strap -->
+  <rect x="140" y="180" width="40" height="10" fill="gold"/>
+  
+  <!-- Left high heel buckle -->
+  <rect x="95" y="175" width="10" height="20" fill="gold"/>
+  
+  <!-- Right high heel buckle -->
+  <rect x="155" y="175" width="10" height="20" fill="gold"/>
+</svg>

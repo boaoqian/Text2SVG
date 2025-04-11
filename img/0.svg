@@ -1,0 +1,22 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 250)" />
+
+  <!-- Lake (blue) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(0, 121, 184)" />
+
+  <!-- Left Pine Tree -->
+  <polygon points="30,128 50,128 40,80" fill="rgb(34, 139, 34)" />
+  <polygon points="30,128 50,128 40,100" fill="rgb(50, 205, 50)" />
+  <rect x="38" y="128" width="4" height="20" fill="rgb(139, 69, 19)" />
+
+  <!-- Right Pine Tree -->
+  <polygon points="226,128 246,128 236,80" fill="rgb(34, 139, 34)" />
+  <polygon points="226,128 246,128 236,100" fill="rgb(50, 205, 50)" />
+  <rect x="234" y="128" width="4" height="20" fill="rgb(139, 69, 19)" />
+
+  <!-- Middle Pine Tree -->
+  <polygon points="128,128 148,128 138,80" fill="rgb(34, 139, 34)" />
+  <polygon points="128,128 148,128 138,100" fill="rgb(50, 205, 50)" />
+  <rect x="136" y="128" width="4" height="20" fill="rgb(139, 69, 19)" />
+</svg>

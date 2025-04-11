@@ -1,0 +1,40 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Jacket Shape (Navy) -->
+  <path d="M50,50 C50,30 70,20 90,20 C110,20 130,30 130,50 L130,200 C130,220 110,230 90,230 C70,230 50,220 50,200 Z" fill="rgb(0, 0, 128)" />
+
+  <!-- Quilted Design -->
+  <g fill="rgb(192, 192, 192)" stroke="rgb(0, 0, 128)" stroke-width="2">
+    <!-- Top Left Quilted Section -->
+    <rect x="60" y="60" width="20" height="20" />
+    <rect x="60" y="90" width="20" height="20" />
+    <rect x="60" y="120" width="20" height="20" />
+    <rect x="60" y="150" width="20" height="20" />
+    <rect x="60" y="180" width="20" height="20" />
+
+    <!-- Top Right Quilted Section -->
+    <rect x="170" y="60" width="20" height="20" />
+    <rect x="170" y="90" width="20" height="20" />
+    <rect x="170" y="120" width="20" height="20" />
+    <rect x="170" y="150" width="20" height="20" />
+    <rect x="170" y="180" width="20" height="20" />
+
+    <!-- Middle Quilted Section -->
+    <rect x="90" y="60" width="20" height="20" />
+    <rect x="90" y="90" width="20" height="20" />
+    <rect x="90" y="120" width="20" height="20" />
+    <rect x="90" y="150" width="20" height="20" />
+    <rect x="90" y="180" width="20" height="20" />
+
+    <rect x="120" y="60" width="20" height="20" />
+    <rect x="120" y="90" width="20" height="20" />
+    <rect x="120" y="120" width="20" height="20" />
+    <rect x="120" y="150" width="20" height="20" />
+    <rect x="120" y="180" width="20" height="20" />
+
+    <rect x="150" y="60" width="20" height="20" />
+    <rect x="150" y="90" width="20" height="20" />
+    <rect x="150" y="120" width="20" height="20" />
+    <rect x="150" y="150" width="20" height="20" />
+    <rect x="150" y="180" width="20" height="20" />
+  </g>
+</svg>

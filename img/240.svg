@@ -1,0 +1,17 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Sandal Sole -->
+  <rect x="50" y="150" width="60" height="20" fill="rgb(139, 69, 19)" />
+
+  <!-- Left Sandal Straps -->
+  <rect x="60" y="130" width="10" height="30" fill="rgb(210, 180, 140)" />
+  <rect x="90" y="130" width="10" height="30" fill="rgb(210, 180, 140)" />
+  <rect x="70" y="110" width="20" height="10" fill="rgb(210, 180, 140)" />
+
+  <!-- Right Sandal Sole -->
+  <rect x="150" y="150" width="60" height="20" fill="rgb(139, 69, 19)" />
+
+  <!-- Right Sandal Straps -->
+  <rect x="160" y="130" width="10" height="30" fill="rgb(210, 180, 140)" />
+  <rect x="190" y="130" width="10" height="30" fill="rgb(210, 180, 140)" />
+  <rect x="170" y="110" width="20" height="10" fill="rgb(210, 180, 140)" />
+</svg>

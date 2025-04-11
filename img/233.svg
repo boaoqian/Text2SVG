@@ -1,0 +1,16 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Pants outline -->
+  <path d="M80,80 C80,60 100,40 128,40 C156,40 176,60 176,80 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="rgb(139, 69, 19)" stroke="black" stroke-width="2"/>
+
+  <!-- Main Pockets -->
+  <rect x="90" y="100" width="30" height="40" fill="rgb(101, 67, 33)" stroke="black" stroke-width="1"/>
+  <rect x="136" y="100" width="30" height="40" fill="rgb(101, 67, 33)" stroke="black" stroke-width="1"/>
+
+  <!-- Side Pockets -->
+  <rect x="60" y="120" width="20" height="30" fill="rgb(101, 67, 33)" stroke="black" stroke-width="1"/>
+  <rect x="176" y="120" width="20" height="30" fill="rgb(101, 67, 33)" stroke="black" stroke-width="1"/>
+
+  <!-- Additional Details -->
+  <rect x="80" y="160" width="96" height="10" fill="rgb(101, 67, 33)" stroke="black" stroke-width="1"/>
+  <rect x="80" y="180" width="96" height="10" fill="rgb(101, 67, 33)" stroke="black" stroke-width="1"/>
+</svg>

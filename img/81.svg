@@ -1,0 +1,22 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 250)" />
+      <stop offset="100%" stop-color="rgb(0, 191, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Ocean -->
+  <rect x="0" y="128" width="256" height="64" fill="rgb(0, 121, 184)" />
+
+  <!-- Ocean Waves -->
+  <path d="M0,160 C50,150 100,170 150,160 C200,150 256,160 256,160 V192 H0 Z" fill="rgb(0, 191, 255)" />
+
+  <!-- Sandy Beach -->
+  <rect x="0" y="192" width="256" height="64" fill="rgb(210, 180, 140)" />
+
+  <!-- Additional Sand Texture -->
+  <path d="M0,200 C50,190 100,210 150,200 C200,190 256,200 256,200 V256 H0 Z" fill="rgb(194, 178, 128)" />
+</svg>

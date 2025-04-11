@@ -1,0 +1,27 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (light blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 235)"/>
+
+  <!-- Forest Ground -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)"/>
+
+  <!-- Trees -->
+  <rect x="20" y="100" width="10" height="60" fill="rgb(139, 69, 19)"/>
+  <polygon points="10,100 40,100 25,70" fill="rgb(0, 100, 0)"/>
+  <rect x="60" y="110" width="10" height="50" fill="rgb(139, 69, 19)"/>
+  <polygon points="50,110 80,110 65,80" fill="rgb(0, 100, 0)"/>
+  <rect x="100" y="120" width="10" height="40" fill="rgb(139, 69, 19)"/>
+  <polygon points="90,120 120,120 105,90" fill="rgb(0, 100, 0)"/>
+  <rect x="140" y="100" width="10" height="60" fill="rgb(139, 69, 19)"/>
+  <polygon points="130,100 160,100 145,70" fill="rgb(0, 100, 0)"/>
+  <rect x="180" y="110" width="10" height="50" fill="rgb(139, 69, 19)"/>
+  <polygon points="170,110 200,110 185,80" fill="rgb(0, 100, 0)"/>
+  <rect x="220" y="120" width="10" height="40" fill="rgb(139, 69, 19)"/>
+  <polygon points="210,120 240,120 225,90" fill="rgb(0, 100, 0)"/>
+
+  <!-- Wooden Cabin -->
+  <rect x="100" y="150" width="50" height="40" fill="rgb(139, 69, 19)"/>
+  <polygon points="100,150 125,130 150,150" fill="rgb(139, 69, 19)"/>
+  <rect x="110" y="160" width="10" height="10" fill="rgb(0, 0, 0)"/>
+  <rect x="130" y="160" width="10" height="10" fill="rgb(0, 0, 0)"/>
+</svg>

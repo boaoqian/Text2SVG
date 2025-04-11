@@ -1,0 +1,43 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Deep Purple Haze -->
+  <rect x="0" y="0" width="256" height="256" fill="rgb(75, 0, 130)"/>
+
+  <!-- Burst of Golden Light -->
+  <defs>
+    <!-- Golden Light Gradient -->
+    <radialGradient id="goldenLight" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 215, 0)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(255, 215, 0)" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Red Light Gradient -->
+    <radialGradient id="redLight" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 0, 0)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(255, 0, 0)" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Blue Light Gradient -->
+    <radialGradient id="blueLight" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(0, 0, 255)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(0, 0, 255)" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Golden Light Layers -->
+  <circle cx="128" cy="128" r="128" fill="url(#goldenLight)" opacity="0.8"/>
+  <circle cx="128" cy="128" r="100" fill="url(#goldenLight)" opacity="0.6"/>
+  <circle cx="128" cy="128" r="70" fill="url(#goldenLight)" opacity="0.4"/>
+  <circle cx="128" cy="128" r="40" fill="url(#goldenLight)" opacity="0.2"/>
+
+  <!-- Red Light Layers -->
+  <circle cx="128" cy="128" r="120" fill="url(#redLight)" opacity="0.7"/>
+  <circle cx="128" cy="128" r="90" fill="url(#redLight)" opacity="0.5"/>
+  <circle cx="128" cy="128" r="60" fill="url(#redLight)" opacity="0.3"/>
+  <circle cx="128" cy="128" r="30" fill="url(#redLight)" opacity="0.1"/>
+
+  <!-- Blue Light Layers -->
+  <circle cx="128" cy="128" r="110" fill="url(#blueLight)" opacity="0.7"/>
+  <circle cx="128" cy="128" r="80" fill="url(#blueLight)" opacity="0.5"/>
+  <circle cx="128" cy="128" r="50" fill="url(#blueLight)" opacity="0.3"/>
+  <circle cx="128" cy="128" r="20" fill="url(#blueLight)" opacity="0.1"/>
+</svg>

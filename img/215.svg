@@ -1,0 +1,23 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Define gradient for silk texture -->
+  <defs>
+    <linearGradient id="silkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgb(230, 230, 250)" />
+      <stop offset="50%" stop-color="rgb(240, 240, 255)" />
+      <stop offset="100%" stop-color="rgb(230, 230, 250)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Blouse shape with silk gradient -->
+  <rect x="50" y="50" width="156" height="156" rx="20" ry="20" fill="url(#silkGradient)" />
+
+  <!-- Ruffled neckline -->
+  <path d="M60,70 C80,50 120,50 140,70 C160,90 180,90 200,70" fill="none" stroke="rgb(230, 230, 250)" stroke-width="4" />
+  <path d="M60,80 C80,60 120,60 140,80 C160,100 180,100 200,80" fill="none" stroke="rgb(230, 230, 250)" stroke-width="4" />
+
+  <!-- Bow at the neckline -->
+  <path d="M120,70 C130,60 140,60 150,70 C140,80 130,80 120,70 Z" fill="rgb(230, 230, 250)" />
+  <path d="M120,80 C130,70 140,70 150,80 C140,90 130,90 120,80 Z" fill="rgb(230, 230, 250)" />
+  <path d="M120,70 C130,60 140,60 150,70" fill="none" stroke="rgb(230, 230, 250)" stroke-width="4" />
+  <path d="M120,80 C130,70 140,70 150,80" fill="none" stroke="rgb(230, 230, 250)" stroke-width="4" />
+</svg>

@@ -1,0 +1,29 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with stars -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(0, 0, 51)" />
+      <stop offset="100%" stop-color="rgb(0, 0, 102)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Stars -->
+  <circle cx="30" cy="30" r="1" fill="white" />
+  <circle cx="80" cy="20" r="1" fill="white" />
+  <circle cx="120" cy="40" r="1" fill="white" />
+  <circle cx="150" cy="10" r="1" fill="white" />
+  <circle cx="200" cy="30" r="1" fill="white" />
+  <circle cx="230" cy="50" r="1" fill="white" />
+  <circle cx="50" cy="70" r="1" fill="white" />
+  <circle cx="100" cy="60" r="1" fill="white" />
+  <circle cx="180" cy="80" r="1" fill="white" />
+  <circle cx="220" cy="90" r="1" fill="white" />
+
+  <!-- Desert Base Layer -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(194, 178, 128)" />
+
+  <!-- Desert Dunes -->
+  <path d="M0,140 C50,120 100,160 150,130 C200,100 256,140 256,140 V256 H0 Z" fill="rgb(210, 180, 140)" />
+  <path d="M0,160 C50,140 100,180 150,150 C200,120 256,160 256,160 V256 H0 Z" fill="rgb(222, 184, 135)" />
+</svg>

@@ -1,0 +1,36 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Ground (green) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Lake (calm water) -->
+  <ellipse cx="128" cy="160" rx="80" ry="40" fill="rgb(0, 119, 190)" />
+
+  <!-- Small Island in the Center -->
+  <circle cx="128" cy="160" r="30" fill="rgb(139, 69, 19)" />
+
+  <!-- Trees on the Island -->
+  <!-- Left Tree -->
+  <rect x="110" y="140" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="115" cy="130" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Right Tree -->
+  <rect x="136" y="140" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="141" cy="130" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Top Tree -->
+  <rect x="120" y="120" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="125" cy="110" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Bottom Tree -->
+  <rect x="120" y="160" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="125" cy="150" r="20" fill="rgb(0, 100, 0)" />
+</svg>

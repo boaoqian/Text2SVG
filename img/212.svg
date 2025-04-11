@@ -1,0 +1,12 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Trousers Outline -->
+  <path d="M80,80 C80,60 100,40 128,40 C156,40 176,60 176,80 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="rgb(0, 0, 128)" stroke="black" stroke-width="2"/>
+
+  <!-- Crease Line -->
+  <line x1="128" y1="80" x2="128" y2="200" stroke="white" stroke-width="2"/>
+
+  <!-- Belt Loops -->
+  <rect x="100" y="60" width="8" height="10" fill="rgb(0, 0, 128)" stroke="black" stroke-width="1"/>
+  <rect x="120" y="60" width="8" height="10" fill="rgb(0, 0, 128)" stroke="black" stroke-width="1"/>
+  <rect x="140" y="60" width="8" height="10" fill="rgb(0, 0, 128)" stroke="black" stroke-width="1"/>
+</svg>

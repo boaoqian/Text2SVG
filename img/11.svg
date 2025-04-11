@@ -1,0 +1,24 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 250)" />
+
+  <!-- Ground (green) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Waterfall -->
+  <path d="M100,128 C100,128 100,180 100,180 C100,180 120,160 140,180 C140,180 160,160 180,180 C180,180 200,160 220,180 C220,180 220,128 220,128 Z" fill="rgb(0, 191, 255)" />
+
+  <!-- Pool -->
+  <defs>
+    <linearGradient id="poolGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(0, 191, 255)" />
+      <stop offset="100%" stop-color="rgb(135, 206, 250)" />
+    </linearGradient>
+  </defs>
+  <rect x="80" y="180" width="96" height="40" fill="url(#poolGradient)" />
+
+  <!-- Rocks around the pool -->
+  <circle cx="70" cy="200" r="10" fill="rgb(139, 69, 19)" />
+  <circle cx="186" cy="200" r="10" fill="rgb(139, 69, 19)" />
+  <circle cx="128" cy="220" r="10" fill="rgb(139, 69, 19)" />
+</svg>

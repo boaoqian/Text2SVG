@@ -1,0 +1,29 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Sneaker -->
+  <defs>
+    <!-- Gradient for the knit texture -->
+    <linearGradient id="knitGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(200, 200, 200)" />
+      <stop offset="50%" stop-color="rgb(150, 150, 150)" />
+      <stop offset="100%" stop-color="rgb(200, 200, 200)" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Left Sneaker Base -->
+  <rect x="50" y="150" width="60" height="80" rx="10" ry="10" fill="rgb(100, 100, 100)" />
+  
+  <!-- Left Sneaker Knit Upper -->
+  <rect x="55" y="155" width="50" height="70" rx="8" ry="8" fill="url(#knitGradient)" />
+  
+  <!-- Left Sneaker Sole -->
+  <rect x="50" y="220" width="60" height="10" fill="rgb(50, 50, 50)" />
+  
+  <!-- Right Sneaker -->
+  <rect x="150" y="150" width="60" height="80" rx="10" ry="10" fill="rgb(100, 100, 100)" />
+  
+  <!-- Right Sneaker Knit Upper -->
+  <rect x="155" y="155" width="50" height="70" rx="8" ry="8" fill="url(#knitGradient)" />
+  
+  <!-- Right Sneaker Sole -->
+  <rect x="150" y="220" width="60" height="10" fill="rgb(50, 50, 50)" />
+</svg>

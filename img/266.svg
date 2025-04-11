@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left heel -->
+  <path d="M50,150 C50,120 80,100 120,100 C160,100 190,120 190,150 L190,200 C190,220 160,240 120,240 C80,240 50,220 50,200 Z" fill="black" stroke="black" stroke-width="2"/>
+  
+  <!-- Right heel -->
+  <path d="M70,150 C70,120 100,100 140,100 C180,100 210,120 210,150 L210,200 C210,220 180,240 140,240 C100,240 70,220 70,200 Z" fill="black" stroke="black" stroke-width="2"/>
+  
+  <!-- Left block heel -->
+  <rect x="80" y="200" width="40" height="40" fill="black"/>
+  
+  <!-- Right block heel -->
+  <rect x="120" y="200" width="40" height="40" fill="black"/>
+  
+  <!-- Left heel strap -->
+  <rect x="80" y="130" width="60" height="10" fill="gold"/>
+  
+  <!-- Right heel strap -->
+  <rect x="100" y="130" width="60" height="10" fill="gold"/>
+  
+  <!-- Left heel buckle -->
+  <rect x="105" y="125" width="10" height="20" fill="gold"/>
+  
+  <!-- Right heel buckle -->
+  <rect x="125" y="125" width="10" height="20" fill="gold"/>
+</svg>

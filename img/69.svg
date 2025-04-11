@@ -1,0 +1,35 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(0, 191, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Grass Field -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Sunflowers -->
+  <!-- Sunflower 1 -->
+  <circle cx="50" cy="180" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+  <ellipse cx="50" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(30, 50, 180)" /> <!-- Petals -->
+  <ellipse cx="50" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(60, 50, 180)" />
+  <ellipse cx="50" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90, 50, 180)" />
+  <ellipse cx="50" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(120, 50, 180)" />
+
+  <!-- Sunflower 2 -->
+  <circle cx="150" cy="170" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+  <ellipse cx="150" cy="170" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(30, 150, 170)" /> <!-- Petals -->
+  <ellipse cx="150" cy="170" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(60, 150, 170)" />
+  <ellipse cx="150" cy="170" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90, 150, 170)" />
+  <ellipse cx="150" cy="170" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(120, 150, 170)" />
+
+  <!-- Sunflower 3 -->
+  <circle cx="200" cy="180" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+  <ellipse cx="200" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(30, 200, 180)" /> <!-- Petals -->
+  <ellipse cx="200" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(60, 200, 180)" />
+  <ellipse cx="200" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90, 200, 180)" />
+  <ellipse cx="200" cy="180" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(120, 200, 180)" />
+</svg>

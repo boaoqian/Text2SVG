@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Rocky Mountain -->
+  <path d="M0,128 C50,100 100,150 150,120 C200,90 256,128 256,128 V256 H0 Z" fill="rgb(128, 128, 128)" />
+  <path d="M50,140 C70,120 100,160 130,130 C160,100 200,140 200,140 V256 H50 Z" fill="rgb(105, 105, 105)" />
+  <path d="M100,160 C120,140 150,180 180,150 C210,120 256,160 256,160 V256 H100 Z" fill="rgb(169, 169, 169)" />
+
+  <!-- Winding Trail -->
+  <path d="M20,180 C40,160 80,200 120,170 C160,140 200,180 200,180 V256 H20 Z" fill="rgb(139, 69, 19)" />
+  <path d="M30,190 C50,170 90,210 130,180 C170,150 210,190 210,190 V256 H30 Z" fill="rgb(160, 82, 45)" />
+</svg>

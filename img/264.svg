@@ -1,0 +1,14 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Boot 1 -->
+  <path d="M80,160 C80,120 100,100 128,100 C156,100 176,120 176,160 L176,240 C176,260 156,280 128,280 C100,280 80,260 80,240 Z" fill="rgb(139, 69, 19)" stroke="black" stroke-width="2"/>
+  
+  <!-- Boot 2 -->
+  <path d="M80,160 C80,120 100,100 128,100 C156,100 176,120 176,160 L176,240 C176,260 156,280 128,280 C100,280 80,260 80,240 Z" transform="translate(96,0)" fill="rgb(139, 69, 19)" stroke="black" stroke-width="2"/>
+  
+  <!-- Strap -->
+  <rect x="128" y="140" width="96" height="10" fill="rgb(139, 69, 19)" stroke="black" stroke-width="1"/>
+  
+  <!-- Buckle -->
+  <rect x="160" y="135" width="20" height="20" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+  <rect x="165" y="140" width="10" height="10" fill="rgb(139, 69, 19)" stroke="black" stroke-width="1"/>
+</svg>

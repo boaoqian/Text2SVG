@@ -1,0 +1,27 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 250)" />
+      <stop offset="100%" stop-color="rgb(0, 121, 184)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Sandy Beach -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(244, 164, 96)" />
+
+  <!-- Rocky Formations -->
+  <path d="M0,128 C50,140 100,120 150,130 C200,140 256,128 256,128 V256 H0 Z" fill="rgb(139, 69, 19)" />
+  <path d="M0,140 C50,150 100,130 150,140 C200,150 256,140 256,140 V256 H0 Z" fill="rgb(160, 82, 45)" />
+
+  <!-- Tide Pools -->
+  <circle cx="64" cy="180" r="20" fill="rgb(0, 191, 255)" opacity="0.8" />
+  <circle cx="192" cy="180" r="20" fill="rgb(0, 191, 255)" opacity="0.8" />
+  <circle cx="128" cy="200" r="15" fill="rgb(0, 191, 255)" opacity="0.8" />
+
+  <!-- Water Reflections -->
+  <ellipse cx="64" cy="180" rx="15" ry="5" fill="rgb(255, 255, 255)" opacity="0.6" />
+  <ellipse cx="192" cy="180" rx="15" ry="5" fill="rgb(255, 255, 255)" opacity="0.6" />
+  <ellipse cx="128" cy="200" rx="10" ry="3" fill="rgb(255, 255, 255)" opacity="0.6" />
+</svg>

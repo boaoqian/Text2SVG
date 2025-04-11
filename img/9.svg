@@ -1,0 +1,20 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with sunset gradient -->
+  <defs>
+    <linearGradient id="sunsetGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 165, 0)" /> <!-- Orange -->
+      <stop offset="50%" stop-color="rgb(255, 69, 0)" /> <!-- Red -->
+      <stop offset="100%" stop-color="rgb(75, 0, 130)" /> <!-- Purple -->
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#sunsetGradient)" />
+
+  <!-- Calm Sea with gradient -->
+  <defs>
+    <linearGradient id="seaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(0, 0, 128)" /> <!-- Dark Blue -->
+      <stop offset="100%" stop-color="rgb(135, 206, 250)" /> <!-- Light Blue -->
+    </linearGradient>
+  </defs>
+  <rect x="0" y="128" width="256" height="128" fill="url(#seaGradient)" />
+</svg>

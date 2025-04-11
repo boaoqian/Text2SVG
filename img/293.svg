@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Sandal -->
+  <path d="M50,150 Q70,130 90,150 T130,150 L130,200 L90,200 L90,180 L70,180 L70,200 L50,200 Z" fill="rgb(139, 69, 19)" />
+
+  <!-- Right Sandal -->
+  <path d="M150,150 Q170,130 190,150 T230,150 L230,200 L190,200 L190,180 L170,180 L170,200 L150,200 Z" fill="rgb(139, 69, 19)" />
+
+  <!-- Lace-up Details for Left Sandal -->
+  <line x1="60" y1="160" x2="60" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+  <line x1="80" y1="160" x2="80" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+  <line x1="100" y1="160" x2="100" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+  <line x1="120" y1="160" x2="120" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+
+  <!-- Lace-up Details for Right Sandal -->
+  <line x1="160" y1="160" x2="160" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+  <line x1="180" y1="160" x2="180" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+  <line x1="200" y1="160" x2="200" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+  <line x1="220" y1="160" x2="220" y2="190" stroke="rgb(255, 255, 255)" stroke-width="2" />
+</svg>

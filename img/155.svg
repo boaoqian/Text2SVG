@@ -1,0 +1,10 @@
+<svg viewBox="0 0 250 250" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define a series of concentric triangles -->
+  <polygon points="125,10 240,240 10,240" fill="rgb(255, 0, 0)" />
+  <polygon points="125,30 220,220 30,220" fill="rgb(0, 255, 0)" />
+  <polygon points="125,50 200,200 50,200" fill="rgb(0, 0, 255)" />
+  <polygon points="125,70 180,180 70,180" fill="rgb(255, 255, 0)" />
+  <polygon points="125,90 160,160 90,160" fill="rgb(255, 0, 255)" />
+  <polygon points="125,110 140,140 110,140" fill="rgb(0, 255, 255)" />
+  <polygon points="125,130 120,120 130,120" fill="rgb(128, 0, 128)" />
+</svg>

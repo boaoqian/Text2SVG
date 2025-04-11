@@ -1,0 +1,24 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Starry Sky -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(0, 0, 51)" />
+
+  <!-- Stars -->
+  <circle cx="30" cy="30" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="70" cy="20" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="120" cy="40" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="150" cy="10" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="200" cy="30" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="230" cy="50" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="50" cy="80" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="90" cy="70" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="140" cy="90" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="180" cy="60" r="1" fill="rgb(255, 255, 255)" />
+  <circle cx="220" cy="100" r="1" fill="rgb(255, 255, 255)" />
+
+  <!-- Rocky Mountain -->
+  <path d="M0,128 C50,100 100,150 150,120 C200,90 256,128 256,128 V256 H0 Z" fill="rgb(139, 69, 19)" />
+
+  <!-- Additional Rock Layers -->
+  <path d="M0,140 C50,120 100,160 150,130 C200,100 256,140 256,140 V256 H0 Z" fill="rgb(101, 67, 33)" />
+  <path d="M0,160 C50,140 100,180 150,150 C200,120 256,160 256,160 V256 H0 Z" fill="rgb(82, 45, 20)" />
+</svg>

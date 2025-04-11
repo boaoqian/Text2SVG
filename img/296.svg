@@ -1,0 +1,23 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Boot 1 -->
+  <path d="M60,160 C60,120 80,100 100,100 L120,100 C140,100 160,120 160,160 L160,220 C160,240 140,260 120,260 L100,260 C80,260 60,240 60,220 Z" fill="rgb(139,69,19)" stroke="black" stroke-width="2"/>
+  
+  <!-- Quilted detail for Boot 1 -->
+  <rect x="70" y="110" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="90" y="110" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="110" y="110" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="70" y="130" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="90" y="130" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="110" y="130" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+
+  <!-- Boot 2 -->
+  <path d="M160,160 C160,120 180,100 200,100 L220,100 C240,100 260,120 260,160 L260,220 C260,240 240,260 220,260 L200,260 C180,260 160,240 160,220 Z" fill="rgb(139,69,19)" stroke="black" stroke-width="2"/>
+  
+  <!-- Quilted detail for Boot 2 -->
+  <rect x="170" y="110" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="190" y="110" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="210" y="110" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="170" y="130" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="190" y="130" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+  <rect x="210" y="130" width="20" height="20" fill="rgb(101,67,33)" stroke="black" stroke-width="1"/>
+</svg>

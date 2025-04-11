@@ -1,0 +1,7 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Culotte Leg -->
+  <path d="M50,50 C50,100 30,150 50,200 L100,200 C120,150 100,100 100,50 Z" fill="rgb(0, 0, 128)" />
+
+  <!-- Right Culotte Leg -->
+  <path d="M156,50 C156,100 176,150 156,200 L106,200 C86,150 106,100 106,50 Z" fill="rgb(0, 0, 128)" />
+</svg>

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sandy Beach -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(244, 164, 96)" />
+
+  <!-- Seashells -->
+  <ellipse cx="50" cy="180" rx="10" ry="5" fill="rgb(255, 228, 196)" />
+  <ellipse cx="90" cy="200" rx="8" ry="4" fill="rgb(255, 239, 213)" />
+  <ellipse cx="130" cy="160" rx="12" ry="6" fill="rgb(255, 228, 196)" />
+  <ellipse cx="170" cy="190" rx="9" ry="5" fill="rgb(255, 239, 213)" />
+  <ellipse cx="210" cy="170" rx="7" ry="3" fill="rgb(255, 228, 196)" />
+</svg>

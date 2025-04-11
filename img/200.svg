@@ -1,0 +1,9 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Dress outline -->
+  <polygon points="80,50 176,50 200,200 56,200" fill="rgb(0, 0, 0)" />
+
+  <!-- Fitted silhouette -->
+  <path d="M80,50 C80,70 176,70 176,50" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" />
+  <path d="M80,50 Q128,80 176,50" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" />
+  <path d="M56,200 Q128,220 200,200" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" />
+</svg>

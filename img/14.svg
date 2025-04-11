@@ -1,0 +1,22 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Canyon Base Layer -->
+  <path d="M0,128 C50,140 100,120 150,130 C200,140 256,128 256,128 V256 H0 Z" fill="rgb(139, 69, 19)" />
+
+  <!-- Canyon Middle Layer -->
+  <path d="M0,150 C50,160 100,140 150,150 C200,160 256,150 256,150 V256 H0 Z" fill="rgb(160, 82, 45)" />
+
+  <!-- Canyon Top Layer -->
+  <path d="M0,170 C50,180 100,160 150,170 C200,180 256,170 256,170 V256 H0 Z" fill="rgb(205, 133, 63)" />
+
+  <!-- Canyon Detail Layer -->
+  <path d="M0,190 C50,200 100,180 150,190 C200,200 256,190 256,190 V256 H0 Z" fill="rgb(210, 105, 30)" />
+</svg>

@@ -1,0 +1,26 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Misty Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(169, 169, 169)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Forest Floor -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Tall, Ancient Trees -->
+  <rect x="20" y="100" width="10" height="156" fill="rgb(101, 67, 33)" />
+  <rect x="60" y="80" width="10" height="176" fill="rgb(101, 67, 33)" />
+  <rect x="100" y="90" width="10" height="166" fill="rgb(101, 67, 33)" />
+  <rect x="140" y="70" width="10" height="186" fill="rgb(101, 67, 33)" />
+  <rect x="180" y="100" width="10" height="156" fill="rgb(101, 67, 33)" />
+  <rect x="220" y="80" width="10" height="176" fill="rgb(101, 67, 33)" />
+
+  <!-- Mist -->
+  <ellipse cx="128" cy="128" rx="256" ry="50" fill="rgba(255, 255, 255, 0.3)" />
+  <ellipse cx="128" cy="160" rx="256" ry="40" fill="rgba(255, 255, 255, 0.4)" />
+  <ellipse cx="128" cy="200" rx="256" ry="30" fill="rgba(255, 255, 255, 0.5)" />
+</svg>

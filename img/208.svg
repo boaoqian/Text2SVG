@@ -1,0 +1,7 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Shirt outline -->
+  <path d="M128,20 C100,20 80,40 80,80 L80,200 C80,220 100,240 128,240 C156,240 176,220 176,200 L176,80 C176,40 156,20 128,20 Z" fill="white" stroke="black" stroke-width="2"/>
+
+  <!-- Crew neck -->
+  <path d="M100,60 C100,50 110,40 128,40 C146,40 156,50 156,60" fill="none" stroke="black" stroke-width="2"/>
+</svg>

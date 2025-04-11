@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Heel -->
+  <defs>
+    <linearGradient id="heelGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(128, 0, 128)" />
+      <stop offset="100%" stop-color="rgb(75, 0, 130)" />
+    </linearGradient>
+  </defs>
+  <!-- Left Shoe Body -->
+  <path d="M50,150 L50,200 L100,200 L100,150 Z" fill="url(#heelGradient)" />
+  <!-- Left Stiletto Heel -->
+  <line x1="75" y1="200" x2="75" y2="250" stroke="rgb(105, 105, 105)" stroke-width="4" />
+
+  <!-- Right Heel -->
+  <!-- Right Shoe Body -->
+  <path d="M150,150 L150,200 L200,200 L200,150 Z" fill="url(#heelGradient)" />
+  <!-- Right Stiletto Heel -->
+  <line x1="175" y1="200" x2="175" y2="250" stroke="rgb(105, 105, 105)" stroke-width="4" />
+</svg>

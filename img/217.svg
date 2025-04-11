@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 200" width="100" height="200">
+  <!-- Trench coat outline -->
+  <path d="M20,20 Q50,10 80,20 L80,180 Q50,190 20,180 Z" fill="beige" stroke="black" stroke-width="1"/>
+
+  <!-- Double-breasted front flaps -->
+  <path d="M40,20 L40,180 Q50,175 60,180 L60,20 Z" fill="beige" stroke="black" stroke-width="1"/>
+  <path d="M45,20 L45,180 Q50,175 55,180 L55,20 Z" fill="beige" stroke="black" stroke-width="1"/>
+
+  <!-- Buttons -->
+  <circle cx="50" cy="40" r="2" fill="black" />
+  <circle cx="50" cy="70" r="2" fill="black" />
+  <circle cx="50" cy="100" r="2" fill="black" />
+  <circle cx="50" cy="130" r="2" fill="black" />
+  <circle cx="50" cy="160" r="2" fill="black" />
+
+  <!-- Collar -->
+  <path d="M20,20 Q30,15 40,20 L40,30 Q30,25 20,30 Z" fill="beige" stroke="black" stroke-width="1"/>
+  <path d="M80,20 Q70,15 60,20 L60,30 Q70,25 80,30 Z" fill="beige" stroke="black" stroke-width="1"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient for foggy effect -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(173, 216, 230)" />
+      <stop offset="100%" stop-color="rgb(135, 206, 235)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Prairie (green grass) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Fog layer -->
+  <rect x="0" y="128" width="256" height="128" fill="rgba(255, 255, 255, 0.3)" />
+
+  <!-- Wildflowers with muted colors -->
+  <circle cx="50" cy="180" r="5" fill="rgb(200, 0, 0)" />
+  <circle cx="80" cy="160" r="5" fill="rgb(200, 200, 0)" />
+  <circle cx="120" cy="190" r="5" fill="rgb(200, 0, 200)" />
+  <circle cx="150" cy="170" r="5" fill="rgb(0, 200, 0)" />
+  <circle cx="200" cy="180" r="5" fill="rgb(200, 100, 0)" />
+  <circle cx="230" cy="160" r="5" fill="rgb(100, 0, 100)" />
+  <circle cx="30" cy="150" r="4" fill="rgb(200, 150, 150)" />
+  <circle cx="100" cy="140" r="4" fill="rgb(0, 200, 200)" />
+  <circle cx="180" cy="150" r="4" fill="rgb(200, 175, 0)" />
+  <circle cx="220" cy="140" r="4" fill="rgb(50, 0, 100)" />
+</svg>

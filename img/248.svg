@@ -1,0 +1,27 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Sneaker -->
+  <g transform="translate(50, 50)">
+    <!-- Sole -->
+    <rect x="0" y="100" width="60" height="30" rx="5" ry="5" fill="rgb(128, 128, 128)" />
+    <!-- High-top Body -->
+    <rect x="0" y="50" width="60" height="50" rx="10" ry="10" fill="rgb(255, 255, 255)" />
+    <!-- Laces -->
+    <rect x="10" y="60" width="40" height="5" fill="rgb(192, 192, 192)" />
+    <rect x="10" y="70" width="40" height="5" fill="rgb(192, 192, 192)" />
+    <!-- Toe Cap -->
+    <rect x="0" y="50" width="60" height="10" rx="5" ry="5" fill="rgb(0, 0, 0)" />
+  </g>
+
+  <!-- Right Sneaker -->
+  <g transform="translate(130, 50)">
+    <!-- Sole -->
+    <rect x="0" y="100" width="60" height="30" rx="5" ry="5" fill="rgb(128, 128, 128)" />
+    <!-- High-top Body -->
+    <rect x="0" y="50" width="60" height="50" rx="10" ry="10" fill="rgb(255, 255, 255)" />
+    <!-- Laces -->
+    <rect x="10" y="60" width="40" height="5" fill="rgb(192, 192, 192)" />
+    <rect x="10" y="70" width="40" height="5" fill="rgb(192, 192, 192)" />
+    <!-- Toe Cap -->
+    <rect x="0" y="50" width="60" height="10" rx="5" ry="5" fill="rgb(0, 0, 0)" />
+  </g>
+</svg>

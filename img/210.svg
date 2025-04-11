@@ -1,0 +1,22 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Background (optional, to represent the neck area) -->
+  <rect x="0" y="0" width="256" height="256" fill="rgb(240, 240, 240)"/>
+
+  <!-- Scarf Base Layer -->
+  <rect x="80" y="100" width="96" height="60" fill="rgb(139, 69, 19)" /> <!-- Base color for the scarf -->
+
+  <!-- Plaid Pattern -->
+  <!-- Vertical Stripes -->
+  <rect x="90" y="100" width="6" height="60" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+  <rect x="110" y="100" width="6" height="60" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+  <rect x="130" y="100" width="6" height="60" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+  <rect x="150" y="100" width="6" height="60" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+
+  <!-- Horizontal Stripes -->
+  <rect x="80" y="110" width="96" height="6" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+  <rect x="80" y="130" width="96" height="6" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+  <rect x="80" y="150" width="96" height="6" fill="rgb(255, 255, 255)" /> <!-- White stripe -->
+
+  <!-- Scarf Folds -->
+  <path d="M80,100 C80,120 90,130 100,140 C110,150 120,160 130,170 C140,180 150,190 160,200 C170,210 176,220 176,200 L176,160 C176,140 166,130 156,120 C146,110 136,100 126,90 C116,80 106,70 96,60 C86,50 80,40 80,60 Z" fill="rgba(0, 0, 0, 0.2)" /> <!-- Shadow for folds -->
+</svg>

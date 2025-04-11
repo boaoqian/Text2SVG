@@ -1,0 +1,46 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient and clouds -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Clouds -->
+  <ellipse cx="60" cy="40" rx="30" ry="20" fill="white" opacity="0.9" />
+  <ellipse cx="120" cy="60" rx="40" ry="25" fill="white" opacity="0.9" />
+  <ellipse cx="200" cy="50" rx="35" ry="20" fill="white" opacity="0.9" />
+
+  <!-- Grass with texture -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+  <path d="M0,140 Q50,130 100,140 T200,140 T256,140 V256 H0 Z" fill="rgb(50, 205, 50)" opacity="0.6" />
+
+  <!-- Field of Daisies -->
+  <g fill="white">
+    <!-- Daisy Centers -->
+    <circle cx="50" cy="180" r="5" fill="yellow" />
+    <circle cx="80" cy="160" r="5" fill="yellow" />
+    <circle cx="120" cy="190" r="5" fill="yellow" />
+    <circle cx="150" cy="170" r="5" fill="yellow" />
+    <circle cx="200" cy="180" r="5" fill="yellow" />
+    <circle cx="230" cy="160" r="5" fill="yellow" />
+    <circle cx="30" cy="150" r="4" fill="yellow" />
+    <circle cx="100" cy="140" r="4" fill="yellow" />
+    <circle cx="180" cy="150" r="4" fill="yellow" />
+    <circle cx="220" cy="140" r="4" fill="yellow" />
+
+    <!-- Daisy Petals -->
+    <ellipse cx="50" cy="180" rx="8" ry="4" fill="white" />
+    <ellipse cx="80" cy="160" rx="8" ry="4" fill="white" />
+    <ellipse cx="120" cy="190" rx="8" ry="4" fill="white" />
+    <ellipse cx="150" cy="170" rx="8" ry="4" fill="white" />
+    <ellipse cx="200" cy="180" rx="8" ry="4" fill="white" />
+    <ellipse cx="230" cy="160" rx="8" ry="4" fill="white" />
+    <ellipse cx="30" cy="150" rx="6" ry="3" fill="white" />
+    <ellipse cx="100" cy="140" rx="6" ry="3" fill="white" />
+    <ellipse cx="180" cy="150" rx="6" ry="3" fill="white" />
+    <ellipse cx="220" cy="140" rx="6" ry="3" fill="white" />
+  </g>
+</svg>

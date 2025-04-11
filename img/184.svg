@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Deep Purple Haze -->
+  <rect x="0" y="0" width="256" height="256" fill="rgb(75, 0, 130)"/>
+
+  <!-- Burst of Colors -->
+  <defs>
+    <radialGradient id="colorBurst" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 215, 0)" stop-opacity="1"/>
+      <stop offset="25%" stop-color="rgb(255, 140, 0)" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="rgb(255, 0, 0)" stop-opacity="0.6"/>
+      <stop offset="75%" stop-color="rgb(0, 255, 255)" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="rgb(0, 0, 255)" stop-opacity="0.2"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="url(#colorBurst)" opacity="0.8"/>
+  <circle cx="128" cy="128" r="100" fill="url(#colorBurst)" opacity="0.6"/>
+  <circle cx="128" cy="128" r="70" fill="url(#colorBurst)" opacity="0.4"/>
+  <circle cx="128" cy="128" r="40" fill="url(#colorBurst)" opacity="0.2"/>
+</svg>

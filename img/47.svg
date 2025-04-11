@@ -1,0 +1,31 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Grassy Field with gradient -->
+  <defs>
+    <linearGradient id="grassGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(34, 139, 34)" />
+      <stop offset="100%" stop-color="rgb(50, 205, 50)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="128" width="256" height="128" fill="url(#grassGradient)" />
+
+  <!-- Wooden fence -->
+  <line x1="20" y1="140" x2="20" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="60" y1="140" x2="60" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="100" y1="140" x2="100" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="140" y1="140" x2="140" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="180" y1="140" x2="180" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="220" y1="140" x2="220" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+
+  <!-- Horizontal rails -->
+  <line x1="20" y1="140" x2="220" y2="140" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="20" y1="160" x2="220" y2="160" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+  <line x1="20" y1="180" x2="220" y2="180" stroke="rgb(139, 69, 19)" stroke-width="4"/>
+
+  <!-- Fence details -->
+  <rect x="18" y="138" width="4" height="4" fill="rgb(139, 69, 19)"/>
+  <rect x="58" y="138" width="4" height="4" fill="rgb(139, 69, 19)"/>
+  <rect x="98" y="138" width="4" height="4" fill="rgb(139, 69, 19)"/>
+  <rect x="138" y="138" width="4" height="4" fill="rgb(139, 69, 19)"/>
+  <rect x="178" y="138" width="4" height="4" fill="rgb(139, 69, 19)"/>
+  <rect x="218" y="138" width="4" height="4" fill="rgb(139, 69, 19)"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient to simulate sunlight -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(255, 255, 200)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Ground with gradient to simulate sunlight -->
+  <defs>
+    <linearGradient id="groundGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(34, 139, 34)" />
+      <stop offset="100%" stop-color="rgb(50, 205, 50)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="128" width="256" height="128" fill="url(#groundGradient)" />
+
+  <!-- Lake (calm water) -->
+  <ellipse cx="128" cy="160" rx="80" ry="40" fill="rgb(0, 119, 190)" opacity="0.8" />
+
+  <!-- Trees -->
+  <!-- Left Tree -->
+  <rect x="40" y="140" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="45" cy="130" r="20" fill="rgb(0, 100, 0)" opacity="0.9" />
+
+  <!-- Right Tree -->
+  <rect x="206" y="140" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="211" cy="130" r="20" fill="rgb(0, 100, 0)" opacity="0.9" />
+
+  <!-- Top Tree -->
+  <rect x="120" y="100" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="125" cy="90" r="20" fill="rgb(0, 100, 0)" opacity="0.9" />
+
+  <!-- Bottom Tree -->
+  <rect x="120" y="180" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="125" cy="170" r="20" fill="rgb(0, 100, 0)" opacity="0.9" />
+
+  <!-- Additional Trees -->
+  <!-- Left Middle Tree -->
+  <rect x="80" y="150" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="85" cy="140" r="20" fill="rgb(0, 100, 0)" opacity="0.9" />
+
+  <!-- Right Middle Tree -->
+  <rect x="166" y="150" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="171" cy="140" r="20" fill="rgb(0, 100, 0)" opacity="0.9" />
+
+  <!-- Sunlight filtering through the trees -->
+  <defs>
+    <radialGradient id="sunlightGradient" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+      <stop offset="0%" stop-color="rgba(255, 255, 200, 0.5)" />
+      <stop offset="100%" stop-color="rgba(255, 255, 200, 0)" />
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" r="100" fill="url(#sunlightGradient)" opacity="0.6" />
+</svg>

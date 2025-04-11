@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (light blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 235)"/>
+
+  <!-- River (blue) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(0, 121, 184)"/>
+
+  <!-- Wooden Bridge -->
+  <rect x="80" y="140" width="96" height="16" fill="rgb(139, 69, 19)"/> <!-- Bridge base -->
+  <rect x="80" y="140" width="96" height="4" fill="rgb(101, 67, 33)"/> <!-- Bridge top -->
+  <line x1="80" y1="140" x2="80" y2="156" stroke="rgb(101, 67, 33)" stroke-width="4"/> <!-- Left support -->
+  <line x1="176" y1="140" x2="176" y2="156" stroke="rgb(101, 67, 33)" stroke-width="4"/> <!-- Right support -->
+</svg>

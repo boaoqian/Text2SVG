@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Flowing Pastel Pink Curve -->
+  <path d="M0,100 C50,50 100,150 150,100 C200,50 256,150 256,100" fill="none" stroke="rgb(255, 182, 193)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Blue Curve -->
+  <path d="M0,120 C50,70 100,170 150,120 C200,70 256,170 256,120" fill="none" stroke="rgb(173, 216, 230)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Yellow Curve -->
+  <path d="M0,140 C50,90 100,190 150,140 C200,90 256,190 256,140" fill="none" stroke="rgb(255, 239, 213)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Green Curve -->
+  <path d="M0,160 C50,110 100,210 150,160 C200,110 256,210 256,160" fill="none" stroke="rgb(152, 251, 152)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Purple Curve -->
+  <path d="M0,180 C50,130 100,230 150,180 C200,130 256,230 256,180" fill="none" stroke="rgb(221, 160, 221)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Orange Curve -->
+  <path d="M0,200 C50,150 100,250 150,200 C200,150 256,250 256,200" fill="none" stroke="rgb(255, 218, 185)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Teal Curve -->
+  <path d="M0,220 C50,170 100,270 150,220 C200,170 256,270 256,220" fill="none" stroke="rgb(175, 238, 238)" stroke-width="10" opacity="0.8" />
+
+  <!-- Flowing Pastel Lavender Curve -->
+  <path d="M0,240 C50,190 100,290 150,240 C200,190 256,290 256,240" fill="none" stroke="rgb(230, 230, 250)" stroke-width="10" opacity="0.8" />
+</svg>

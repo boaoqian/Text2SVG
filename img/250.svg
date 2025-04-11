@@ -1,0 +1,20 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Jeans Shape -->
+  <path d="M80,40 C80,20 100,0 128,0 C156,0 176,20 176,40 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="rgb(0, 0, 139)" stroke="black" stroke-width="2"/>
+
+  <!-- Distressed Finish -->
+  <path d="M90,50 L90,190" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M110,60 L110,180" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M130,50 L130,190" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M150,60 L150,180" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M100,70 L100,170" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M120,80 L120,160" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M140,70 L140,170" stroke="white" stroke-width="2" opacity="0.5"/>
+  <path d="M160,80 L160,160" stroke="white" stroke-width="2" opacity="0.5"/>
+
+  <!-- Additional Distressed Details -->
+  <path d="M85,100 L85,140" stroke="white" stroke-width="2" opacity="0.7"/>
+  <path d="M95,110 L95,130" stroke="white" stroke-width="2" opacity="0.7"/>
+  <path d="M165,100 L165,140" stroke="white" stroke-width="2" opacity="0.7"/>
+  <path d="M155,110 L155,130" stroke="white" stroke-width="2" opacity="0.7"/>
+</svg>

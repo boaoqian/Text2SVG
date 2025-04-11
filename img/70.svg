@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Sea -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(0, 119, 190)" />
+
+  <!-- Horizon Line -->
+  <line x1="0" y1="128" x2="256" y2="128" stroke="rgb(0, 0, 0)" stroke-width="1" />
+
+  <!-- Lighthouse -->
+  <rect x="120" y="100" width="16" height="60" fill="rgb(211, 211, 211)" />
+  <rect x="116" y="160" width="24" height="8" fill="rgb(105, 105, 105)" />
+  <circle cx="128" cy="90" r="10" fill="rgb(255, 255, 0)" />
+  <rect x="124" y="80" width="8" height="10" fill="rgb(255, 255, 0)" />
+
+  <!-- Light Beam -->
+  <polygon points="128,90 140,70 116,70" fill="rgb(255, 255, 0)" opacity="0.5" />
+</svg>

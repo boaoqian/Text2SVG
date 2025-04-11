@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Jeans outline -->
+  <path d="M80,40 C80,20 100,0 128,0 C156,0 176,20 176,40 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="rgb(0, 0, 128)" stroke="black" stroke-width="2"/>
+
+  <!-- Seams and stitching -->
+  <line x1="128" y1="40" x2="128" y2="200" stroke="white" stroke-width="2"/> <!-- Center seam -->
+  <line x1="80" y1="60" x2="176" y2="60" stroke="white" stroke-width="2"/> <!-- Waistband -->
+  <line x1="80" y1="180" x2="176" y2="180" stroke="white" stroke-width="2"/> <!-- Hem -->
+
+  <!-- Pockets -->
+  <path d="M90,80 C90,70 100,60 110,60 C120,60 130,70 130,80 L130,120 C130,130 120,140 110,140 C100,140 90,130 90,120 Z" fill="rgb(0, 0, 128)" stroke="white" stroke-width="2"/>
+  <path d="M166,80 C166,70 156,60 146,60 C136,60 126,70 126,80 L126,120 C126,130 136,140 146,140 C156,140 166,130 166,120 Z" fill="rgb(0, 0, 128)" stroke="white" stroke-width="2"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Boot -->
+  <path d="M50,150 L50,200 C50,220 70,240 90,240 L110,240 C130,240 150,220 150,200 L150,150 Z" fill="rgb(139, 69, 19)" />
+  <!-- Left Boot Embroidered Detail -->
+  <polygon points="70,160 80,170 70,180 60,170" fill="rgb(255, 215, 0)" />
+  <polygon points="90,160 100,170 90,180 80,170" fill="rgb(255, 215, 0)" />
+  <polygon points="110,160 120,170 110,180 100,170" fill="rgb(255, 215, 0)" />
+
+  <!-- Right Boot -->
+  <path d="M150,150 L150,200 C150,220 170,240 190,240 L210,240 C230,240 250,220 250,200 L250,150 Z" fill="rgb(139, 69, 19)" />
+  <!-- Right Boot Embroidered Detail -->
+  <polygon points="170,160 180,170 170,180 160,170" fill="rgb(255, 215, 0)" />
+  <polygon points="190,160 200,170 190,180 180,170" fill="rgb(255, 215, 0)" />
+  <polygon points="210,160 220,170 210,180 200,170" fill="rgb(255, 215, 0)" />
+</svg>

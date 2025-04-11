@@ -1,0 +1,23 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sneaker Outline -->
+  <path d="M50,180 C50,150 70,130 100,130 L156,130 C186,130 206,150 206,180 L206,220 C206,240 186,256 156,256 L100,256 C70,256 50,240 50,220 Z" fill="rgb(139, 69, 19)" stroke="black" stroke-width="2"/>
+
+  <!-- Leather Texture -->
+  <path d="M60,190 C60,170 80,150 100,150 L156,150 C176,150 196,170 196,190 L196,210 C196,230 176,246 156,246 L100,246 C80,246 60,230 60,210 Z" fill="rgb(160, 82, 45)" stroke="black" stroke-width="1"/>
+
+  <!-- Sole -->
+  <path d="M50,220 C50,230 70,246 100,246 L156,246 C186,246 206,230 206,220 L206,240 C206,250 186,256 156,256 L100,256 C70,256 50,250 50,240 Z" fill="rgb(105, 105, 105)" stroke="black" stroke-width="1"/>
+
+  <!-- Laces -->
+  <rect x="100" y="160" width="56" height="10" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="100" y="175" width="56" height="10" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="100" y="190" width="56" height="10" fill="white" stroke="black" stroke-width="1"/>
+
+  <!-- Eyelets -->
+  <circle cx="100" cy="165" r="3" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+  <circle cx="156" cy="165" r="3" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+  <circle cx="100" cy="180" r="3" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+  <circle cx="156" cy="180" r="3" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+  <circle cx="100" cy="195" r="3" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+  <circle cx="156" cy="195" r="3" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/>
+</svg>

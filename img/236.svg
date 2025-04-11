@@ -1,0 +1,14 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Skirt outline -->
+  <path d="M128,20 C100,20 80,40 80,80 L80,200 C80,220 100,240 128,240 C156,240 176,220 176,200 L176,80 C176,40 156,20 128,20 Z" fill="none" stroke="black" stroke-width="2"/>
+
+  <!-- Denim texture -->
+  <rect x="80" y="80" width="96" height="120" fill="rgb(21, 96, 189)"/> <!-- Base denim color -->
+
+  <!-- Frayed hem effect -->
+  <path d="M80,200 L80,220 C80,220 100,240 128,240 C156,240 176,220 176,220 L176,200 Z" fill="rgb(200, 200, 200)"/> <!-- Light gray for frayed effect -->
+  <line x1="80" y1="200" x2="176" y2="200" stroke="black" stroke-width="2"/> <!-- Hem line -->
+  <line x1="80" y1="210" x2="176" y2="210" stroke="black" stroke-width="1" stroke-dasharray="5,5"/> <!-- Frayed line -->
+  <line x1="80" y1="215" x2="176" y2="215" stroke="black" stroke-width="1" stroke-dasharray="5,5"/> <!-- Frayed line -->
+  <line x1="80" y1="220" x2="176" y2="220" stroke="black" stroke-width="1" stroke-dasharray="5,5"/> <!-- Frayed line -->
+</svg>

@@ -1,0 +1,46 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient and clouds -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="50%" stop-color="rgb(211, 211, 211)" />
+      <stop offset="100%" stop-color="rgb(255, 255, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Field of Wheat -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(210, 180, 140)" />
+
+  <!-- Wheat Stalks -->
+  <g fill="rgb(139, 69, 19)">
+    <rect x="20" y="140" width="5" height="40" />
+    <rect x="40" y="150" width="5" height="40" />
+    <rect x="60" y="140" width="5" height="40" />
+    <rect x="80" y="150" width="5" height="40" />
+    <rect x="100" y="140" width="5" height="40" />
+    <rect x="120" y="150" width="5" height="40" />
+    <rect x="140" y="140" width="5" height="40" />
+    <rect x="160" y="150" width="5" height="40" />
+    <rect x="180" y="140" width="5" height="40" />
+    <rect x="200" y="150" width="5" height="40" />
+    <rect x="220" y="140" width="5" height="40" />
+    <rect x="240" y="150" width="5" height="40" />
+  </g>
+
+  <!-- Wheat Heads -->
+  <g fill="rgb(245, 222, 179)">
+    <ellipse cx="22.5" cy="140" rx="5" ry="10" />
+    <ellipse cx="42.5" cy="150" rx="5" ry="10" />
+    <ellipse cx="62.5" cy="140" rx="5" ry="10" />
+    <ellipse cx="82.5" cy="150" rx="5" ry="10" />
+    <ellipse cx="102.5" cy="140" rx="5" ry="10" />
+    <ellipse cx="122.5" cy="150" rx="5" ry="10" />
+    <ellipse cx="142.5" cy="140" rx="5" ry="10" />
+    <ellipse cx="162.5" cy="150" rx="5" ry="10" />
+    <ellipse cx="182.5" cy="140" rx="5" ry="10" />
+    <ellipse cx="202.5" cy="150" rx="5" ry="10" />
+    <ellipse cx="222.5" cy="140" rx="5" ry="10" />
+    <ellipse cx="242.5" cy="150" rx="5" ry="10" />
+  </g>
+</svg>

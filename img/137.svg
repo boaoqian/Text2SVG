@@ -1,0 +1,56 @@
+<svg viewBox="0 0 250 250" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define a gradient for the circles -->
+  <defs>
+    <radialGradient id="gradient1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 0, 0)" />
+      <stop offset="100%" stop-color="rgb(255, 255, 0)" />
+    </radialGradient>
+    <radialGradient id="gradient2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(0, 255, 0)" />
+      <stop offset="100%" stop-color="rgb(0, 255, 255)" />
+    </radialGradient>
+    <radialGradient id="gradient3" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(0, 0, 255)" />
+      <stop offset="100%" stop-color="rgb(255, 0, 255)" />
+    </radialGradient>
+    <radialGradient id="gradient4" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(128, 0, 128)" />
+      <stop offset="100%" stop-color="rgb(255, 165, 0)" />
+    </radialGradient>
+    <radialGradient id="gradient5" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 192, 203)" />
+      <stop offset="100%" stop-color="rgb(165, 42, 42)" />
+    </radialGradient>
+  </defs>
+
+  <!-- Pattern of dots with gradient colors -->
+  <circle cx="30" cy="30" r="20" fill="url(#gradient1)" />
+  <circle cx="80" cy="30" r="20" fill="url(#gradient2)" />
+  <circle cx="130" cy="30" r="20" fill="url(#gradient3)" />
+  <circle cx="180" cy="30" r="20" fill="url(#gradient4)" />
+  <circle cx="230" cy="30" r="20" fill="url(#gradient5)" />
+
+  <circle cx="30" cy="80" r="20" fill="url(#gradient2)" />
+  <circle cx="80" cy="80" r="20" fill="url(#gradient3)" />
+  <circle cx="130" cy="80" r="20" fill="url(#gradient4)" />
+  <circle cx="180" cy="80" r="20" fill="url(#gradient5)" />
+  <circle cx="230" cy="80" r="20" fill="url(#gradient1)" />
+
+  <circle cx="30" cy="130" r="20" fill="url(#gradient3)" />
+  <circle cx="80" cy="130" r="20" fill="url(#gradient4)" />
+  <circle cx="130" cy="130" r="20" fill="url(#gradient5)" />
+  <circle cx="180" cy="130" r="20" fill="url(#gradient1)" />
+  <circle cx="230" cy="130" r="20" fill="url(#gradient2)" />
+
+  <circle cx="30" cy="180" r="20" fill="url(#gradient4)" />
+  <circle cx="80" cy="180" r="20" fill="url(#gradient5)" />
+  <circle cx="130" cy="180" r="20" fill="url(#gradient1)" />
+  <circle cx="180" cy="180" r="20" fill="url(#gradient2)" />
+  <circle cx="230" cy="180" r="20" fill="url(#gradient3)" />
+
+  <circle cx="30" cy="230" r="20" fill="url(#gradient5)" />
+  <circle cx="80" cy="230" r="20" fill="url(#gradient1)" />
+  <circle cx="130" cy="230" r="20" fill="url(#gradient2)" />
+  <circle cx="180" cy="230" r="20" fill="url(#gradient3)" />
+  <circle cx="230" cy="230" r="20" fill="url(#gradient4)" />
+</svg>

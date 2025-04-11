@@ -1,0 +1,11 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Leather Jacket Outline -->
+  <path d="M128,20 C100,20 80,40 80,80 L80,200 C80,220 100,240 128,240 C156,240 176,220 176,200 L176,80 C176,40 156,20 128,20 Z" fill="rgb(54, 42, 35)" stroke="black" stroke-width="2"/>
+
+  <!-- Zipper -->
+  <rect x="124" y="80" width="8" height="160" fill="rgb(192, 192, 192)"/> <!-- Zipper track -->
+  <circle cx="128" cy="90" r="4" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/> <!-- Zipper pull -->
+  <circle cx="128" cy="130" r="4" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/> <!-- Zipper pull -->
+  <circle cx="128" cy="170" r="4" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/> <!-- Zipper pull -->
+  <circle cx="128" cy="210" r="4" fill="rgb(192, 192, 192)" stroke="black" stroke-width="1"/> <!-- Zipper pull -->
+</svg>

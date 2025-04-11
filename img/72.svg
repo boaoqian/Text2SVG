@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Grassy Field -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Additional Grass Layer for Texture -->
+  <path d="M0,150 C50,130 100,170 150,140 C200,110 256,150 256,150 V256 H0 Z" fill="rgb(50, 205, 50)" />
+
+  <!-- Small Pond -->
+  <ellipse cx="128" cy="180" rx="40" ry="20" fill="rgb(0, 191, 255)" />
+
+  <!-- Pond Reflection -->
+  <ellipse cx="128" cy="185" rx="35" ry="15" fill="rgb(135, 206, 250)" opacity="0.6" />
+</svg>

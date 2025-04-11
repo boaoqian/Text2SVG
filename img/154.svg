@@ -1,0 +1,20 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Gradient overlay for warm to cool transition -->
+  <defs>
+    <linearGradient id="warmToCoolGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 99, 71)" /> <!-- Warm color (Tomato) -->
+      <stop offset="25%" stop-color="rgb(255, 165, 0)" /> <!-- Warm color (Orange) -->
+      <stop offset="50%" stop-color="rgb(255, 215, 0)" /> <!-- Warm color (Gold) -->
+      <stop offset="75%" stop-color="rgb(173, 216, 230)" /> <!-- Cool color (Light Blue) -->
+      <stop offset="100%" stop-color="rgb(221, 160, 221)" /> <!-- Cool color (Plum) -->
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="256" fill="url(#warmToCoolGradient)" />
+
+  <!-- Shapes to enhance the gradient effect -->
+  <circle cx="50" cy="50" r="40" fill="rgb(255, 99, 71)" opacity="0.8" /> <!-- Warm color (Tomato) -->
+  <ellipse cx="200" cy="50" rx="50" ry="30" fill="rgb(255, 165, 0)" opacity="0.8" /> <!-- Warm color (Orange) -->
+  <polygon points="150,100 200,150 100,150" fill="rgb(255, 215, 0)" opacity="0.8" /> <!-- Warm color (Gold) -->
+  <circle cx="200" cy="200" r="40" fill="rgb(173, 216, 230)" opacity="0.8" /> <!-- Cool color (Light Blue) -->
+  <ellipse cx="50" cy="200" rx="50" ry="30" fill="rgb(221, 160, 221)" opacity="0.8" /> <!-- Cool color (Plum) -->
+</svg>

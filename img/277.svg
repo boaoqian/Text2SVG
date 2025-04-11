@@ -1,0 +1,18 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Define metallic gradient -->
+  <defs>
+    <linearGradient id="metallicGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(192, 192, 192)" />
+      <stop offset="50%" stop-color="rgb(224, 224, 224)" />
+      <stop offset="100%" stop-color="rgb(192, 192, 192)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Sandal -->
+  <path d="M50,150 L50,200 L100,200 L100,180 L80,180 L80,150 Z" fill="url(#metallicGradient)" />
+  <path d="M60,160 L60,190 L90,190 L90,170 L70,170 L70,160 Z" fill="rgb(128, 128, 128)" />
+
+  <!-- Right Sandal -->
+  <path d="M150,150 L150,200 L200,200 L200,180 L180,180 L180,150 Z" fill="url(#metallicGradient)" />
+  <path d="M160,160 L160,190 L190,190 L190,170 L170,170 L170,160 Z" fill="rgb(128, 128, 128)" />
+</svg>

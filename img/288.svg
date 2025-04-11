@@ -1,0 +1,17 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Boot -->
+  <path d="M50,150 L50,200 L100,200 L100,180 L80,180 L80,150 Z" fill="rgb(139, 69, 19)" />
+  <!-- Left Boot Studs -->
+  <circle cx="60" cy="170" r="5" fill="rgb(192, 192, 192)" />
+  <circle cx="80" cy="170" r="5" fill="rgb(192, 192, 192)" />
+  <circle cx="60" cy="190" r="5" fill="rgb(192, 192, 192)" />
+  <circle cx="80" cy="190" r="5" fill="rgb(192, 192, 192)" />
+
+  <!-- Right Boot -->
+  <path d="M150,150 L150,200 L200,200 L200,180 L180,180 L180,150 Z" fill="rgb(139, 69, 19)" />
+  <!-- Right Boot Studs -->
+  <circle cx="160" cy="170" r="5" fill="rgb(192, 192, 192)" />
+  <circle cx="180" cy="170" r="5" fill="rgb(192, 192, 192)" />
+  <circle cx="160" cy="190" r="5" fill="rgb(192, 192, 192)" />
+  <circle cx="180" cy="190" r="5" fill="rgb(192, 192, 192)" />
+</svg>

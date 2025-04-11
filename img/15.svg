@@ -1,0 +1,20 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(173, 216, 230)" />
+      <stop offset="100%" stop-color="rgb(240, 248, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Frozen Lake -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(173, 216, 230)" />
+
+  <!-- Cracks in the Ice -->
+  <path d="M20,140 Q40,130 60,140 T100,140" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" />
+  <path d="M120,160 Q140,150 160,160 T200,160" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" />
+  <path d="M40,180 Q60,170 80,180 T120,180" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" />
+  <path d="M160,200 Q180,190 200,200 T240,200" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" />
+  <path d="M80,220 Q100,210 120,220 T160,220" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" />
+</svg>

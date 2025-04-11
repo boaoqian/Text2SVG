@@ -1,0 +1,24 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(0, 121, 184)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Distant Mountains -->
+  <path d="M0,128 C50,100 100,150 150,120 C200,90 256,128 256,128 V256 H0 Z" fill="rgb(169, 169, 169)" opacity="0.5" />
+
+  <!-- Rocky Mountain -->
+  <path d="M0,128 C50,100 100,150 150,120 C200,90 256,128 256,128 V256 H0 Z" fill="rgb(105, 105, 105)" />
+  <path d="M50,128 C100,100 150,150 200,120 C250,90 256,128 256,128 V256 H50 Z" fill="rgb(128, 128, 128)" />
+  <path d="M100,128 C150,100 200,150 250,120 C300,90 256,128 256,128 V256 H100 Z" fill="rgb(169, 169, 169)" />
+
+  <!-- Mountain Path -->
+  <path d="M50,180 C100,160 150,200 200,170 C250,140 256,180 256,180 V256 H50 Z" fill="rgb(210, 180, 140)" />
+
+  <!-- Additional Rocky Details -->
+  <polygon points="50,180 60,170 70,180 80,170 90,180 100,170 110,180 120,170 130,180 140,170 150,180 160,170 170,180 180,170 190,180 200,170 210,180 220,170 230,180 240,170 250,180 256,180 256,256 50,256" fill="rgb(105, 105, 105)" />
+</svg>

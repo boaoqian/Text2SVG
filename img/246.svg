@@ -1,0 +1,29 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Shoe -->
+  <g transform="translate(50, 50)">
+    <!-- Shoe Base -->
+    <path d="M10,80 C10,40 50,10 90,10 C130,10 170,40 170,80 V150 H10 Z" fill="rgb(139, 69, 19)" />
+    
+    <!-- Wingtip Design -->
+    <path d="M20,70 C20,50 40,30 60,30 C80,30 100,50 100,70 V80 H20 Z" fill="rgb(101, 67, 33)" />
+    <path d="M80,70 C80,50 100,30 120,30 C140,30 160,50 160,70 V80 H80 Z" fill="rgb(101, 67, 33)" />
+    
+    <!-- Shoe Laces -->
+    <rect x="40" y="90" width="80" height="10" fill="rgb(255, 255, 255)" />
+    <rect x="40" y="110" width="80" height="10" fill="rgb(255, 255, 255)" />
+  </g>
+
+  <!-- Right Shoe -->
+  <g transform="translate(150, 50)">
+    <!-- Shoe Base -->
+    <path d="M10,80 C10,40 50,10 90,10 C130,10 170,40 170,80 V150 H10 Z" fill="rgb(139, 69, 19)" />
+    
+    <!-- Wingtip Design -->
+    <path d="M20,70 C20,50 40,30 60,30 C80,30 100,50 100,70 V80 H20 Z" fill="rgb(101, 67, 33)" />
+    <path d="M80,70 C80,50 100,30 120,30 C140,30 160,50 160,70 V80 H80 Z" fill="rgb(101, 67, 33)" />
+    
+    <!-- Shoe Laces -->
+    <rect x="40" y="90" width="80" height="10" fill="rgb(255, 255, 255)" />
+    <rect x="40" y="110" width="80" height="10" fill="rgb(255, 255, 255)" />
+  </g>
+</svg>

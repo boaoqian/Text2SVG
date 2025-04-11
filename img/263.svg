@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Sneaker -->
+  <!-- Sole -->
+  <rect x="50" y="180" width="60" height="20" fill="rgb(128, 128, 128)" />
+  <!-- Body -->
+  <rect x="50" y="120" width="60" height="60" fill="rgb(255, 255, 255)" />
+  <!-- Velcro Strap -->
+  <rect x="60" y="130" width="40" height="10" fill="rgb(255, 215, 0)" />
+  <rect x="60" y="145" width="40" height="10" fill="rgb(255, 215, 0)" />
+
+  <!-- Right Sneaker -->
+  <!-- Sole -->
+  <rect x="150" y="180" width="60" height="20" fill="rgb(128, 128, 128)" />
+  <!-- Body -->
+  <rect x="150" y="120" width="60" height="60" fill="rgb(255, 255, 255)" />
+  <!-- Velcro Strap -->
+  <rect x="160" y="130" width="40" height="10" fill="rgb(255, 215, 0)" />
+  <rect x="160" y="145" width="40" height="10" fill="rgb(255, 215, 0)" />
+</svg>

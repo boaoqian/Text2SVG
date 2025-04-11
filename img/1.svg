@@ -1,0 +1,17 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 250)" />
+      <stop offset="100%" stop-color="rgb(0, 191, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Sandy Beach -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(244, 164, 96)" />
+
+  <!-- Ocean Waves -->
+  <path d="M0,150 C50,140 100,160 150,150 C200,140 256,150 256,150 V180 C256,180 200,170 150,180 C100,190 50,180 0,180 Z" fill="rgb(0, 191, 255)" />
+  <path d="M0,160 C50,150 100,170 150,160 C200,150 256,160 256,160 V190 C256,190 200,180 150,190 C100,200 50,190 0,190 Z" fill="rgb(173, 216, 230)" />
+</svg>

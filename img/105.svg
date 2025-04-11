@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Triangle 1 -->
+  <polygon points="50,50 150,50 100,150" fill="rgb(255, 182, 193)" opacity="0.8" />
+
+  <!-- Triangle 2 -->
+  <polygon points="100,50 200,50 150,150" fill="rgb(173, 216, 230)" opacity="0.8" />
+
+  <!-- Triangle 3 -->
+  <polygon points="150,50 250,50 200,150" fill="rgb(255, 239, 213)" opacity="0.8" />
+
+  <!-- Triangle 4 -->
+  <polygon points="50,150 150,150 100,250" fill="rgb(152, 251, 152)" opacity="0.8" />
+
+  <!-- Triangle 5 -->
+  <polygon points="100,150 200,150 150,250" fill="rgb(221, 160, 221)" opacity="0.8" />
+
+  <!-- Triangle 6 -->
+  <polygon points="150,150 250,150 200,250" fill="rgb(255, 218, 185)" opacity="0.8" />
+</svg>

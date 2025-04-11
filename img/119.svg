@@ -1,0 +1,28 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Deep Purple Haze -->
+  <rect x="0" y="0" width="256" height="256" fill="rgb(75, 0, 130)"/>
+
+  <!-- Burst of Golden Light -->
+  <defs>
+    <radialGradient id="goldenLight1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 215, 0)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(255, 215, 0)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldenLight2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 140, 0)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(255, 140, 0)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldenLight3" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 69, 0)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(255, 69, 0)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldenLight4" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 0, 0)" stop-opacity="1"/>
+      <stop offset="100%" stop-color="rgb(255, 0, 0)" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="url(#goldenLight1)" opacity="0.8"/>
+  <circle cx="128" cy="128" r="100" fill="url(#goldenLight2)" opacity="0.6"/>
+  <circle cx="128" cy="128" r="70" fill="url(#goldenLight3)" opacity="0.4"/>
+  <circle cx="128" cy="128" r="40" fill="url(#goldenLight4)" opacity="0.2"/>
+</svg>

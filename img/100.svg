@@ -1,0 +1,16 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Background -->
+  <rect x="0" y="0" width="256" height="256" fill="rgb(240, 248, 255)" />
+
+  <!-- Swirling Blue Path -->
+  <path d="M128,128 C100,100 100,50 150,50 C200,50 200,100 150,150 C100,200 50,200 50,150 C50,100 100,100 128,128 Z" fill="rgb(173, 216, 230)" opacity="0.8" />
+
+  <!-- Swirling Green Path -->
+  <path d="M128,128 C150,100 200,100 200,150 C200,200 150,200 150,150 C150,100 100,100 128,128 Z" fill="rgb(152, 251, 152)" opacity="0.8" />
+
+  <!-- Additional Swirling Blue Path -->
+  <path d="M128,128 C100,150 50,150 50,100 C50,50 100,50 100,100 C100,150 150,150 128,128 Z" fill="rgb(135, 206, 250)" opacity="0.8" />
+
+  <!-- Additional Swirling Green Path -->
+  <path d="M128,128 C150,150 200,150 200,100 C200,50 150,50 150,100 C150,150 100,150 128,128 Z" fill="rgb(50, 205, 50)" opacity="0.8" />
+</svg>

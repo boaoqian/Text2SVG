@@ -1,0 +1,12 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (light blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 250)" />
+
+  <!-- Lake (blue) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(0, 121, 184)" />
+
+  <!-- Small Wooden Boat -->
+  <path d="M100,160 C120,140 160,140 180,160 C160,180 120,180 100,160 Z" fill="rgb(139, 69, 19)" />
+  <rect x="130" y="150" width="20" height="10" fill="rgb(139, 69, 19)" />
+  <line x1="140" y1="150" x2="140" y2="140" stroke="rgb(139, 69, 19)" stroke-width="2" />
+</svg>

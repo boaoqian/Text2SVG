@@ -1,0 +1,8 @@
+<svg viewBox="0 0 250 250" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define a series of concentric squares -->
+  <rect x="25" y="25" width="200" height="200" fill="rgb(255, 0, 0)" />
+  <rect x="50" y="50" width="150" height="150" fill="rgb(0, 255, 0)" />
+  <rect x="75" y="75" width="100" height="100" fill="rgb(0, 0, 255)" />
+  <rect x="100" y="100" width="50" height="50" fill="rgb(255, 255, 0)" />
+  <rect x="112.5" y="112.5" width="25" height="25" fill="rgb(255, 0, 255)" />
+</svg>

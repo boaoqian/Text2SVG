@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(0, 121, 184)" />
+
+  <!-- Calm Lake -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(0, 191, 255)" />
+
+  <!-- Wooden Dock -->
+  <rect x="100" y="128" width="20" height="80" fill="rgb(139, 69, 19)" />
+  <rect x="100" y="200" width="20" height="10" fill="rgb(139, 69, 19)" />
+  <rect x="100" y="210" width="5" height="20" fill="rgb(139, 69, 19)" />
+  <rect x="115" y="210" width="5" height="20" fill="rgb(139, 69, 19)" />
+</svg>

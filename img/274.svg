@@ -1,0 +1,17 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Heel -->
+  <path d="M50,150 L50,200 L100,200 L100,150 Q75,140 50,150 Z" fill="rgb(139, 69, 19)" />
+  <path d="M50,150 L100,150 L100,100 L50,100 Z" fill="rgb(139, 69, 19)" />
+  <path d="M50,100 L100,100 L100,50 L50,50 Z" fill="rgb(139, 69, 19)" />
+  
+  <!-- Left Slingback Strap -->
+  <path d="M50,100 Q75,90 100,100" stroke="rgb(192, 192, 192)" stroke-width="4" fill="none" />
+  
+  <!-- Right Heel -->
+  <path d="M150,150 L150,200 L200,200 L200,150 Q175,140 150,150 Z" fill="rgb(139, 69, 19)" />
+  <path d="M150,150 L200,150 L200,100 L150,100 Z" fill="rgb(139, 69, 19)" />
+  <path d="M150,100 L200,100 L200,50 L150,50 Z" fill="rgb(139, 69, 19)" />
+  
+  <!-- Right Slingback Strap -->
+  <path d="M150,100 Q175,90 200,100" stroke="rgb(192, 192, 192)" stroke-width="4" fill="none" />
+</svg>

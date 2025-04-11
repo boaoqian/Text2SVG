@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Muted Pink Irregular Shape -->
+  <polygon points="50,50 100,30 120,80 80,120 40,90" fill="rgb(255, 182, 193)" opacity="0.8" />
+
+  <!-- Muted Blue Irregular Shape -->
+  <polygon points="150,40 200,60 180,110 130,100 140,70" fill="rgb(173, 216, 230)" opacity="0.8" />
+
+  <!-- Muted Yellow Irregular Shape -->
+  <polygon points="200,50 250,100 200,150 150,100" fill="rgb(255, 239, 213)" opacity="0.8" />
+
+  <!-- Muted Green Irregular Shape -->
+  <polygon points="180,180 220,200 200,240 160,220 170,190" fill="rgb(152, 251, 152)" opacity="0.8" />
+
+  <!-- Muted Purple Irregular Shape -->
+  <polygon points="100,200 150,220 130,250 80,230 90,210" fill="rgb(221, 160, 221)" opacity="0.8" />
+
+  <!-- Muted Orange Irregular Shape -->
+  <polygon points="50,150 90,160 80,200 40,190 30,170" fill="rgb(255, 218, 185)" opacity="0.8" />
+
+  <!-- Muted Teal Irregular Shape -->
+  <polygon points="220,80 240,100 220,130 180,120 190,90" fill="rgb(175, 238, 238)" opacity="0.8" />
+
+  <!-- Muted Lavender Irregular Shape -->
+  <polygon points="30,80 80,50 130,80 80,110" fill="rgb(230, 230, 250)" opacity="0.8" />
+</svg>

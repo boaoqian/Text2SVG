@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 250)" />
+
+  <!-- Grassy Meadow -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Small Wooden Bridge -->
+  <!-- Bridge Base -->
+  <rect x="80" y="160" width="96" height="10" fill="rgb(139, 69, 19)" />
+
+  <!-- Bridge Railings -->
+  <rect x="80" y="150" width="10" height="20" fill="rgb(139, 69, 19)" />
+  <rect x="166" y="150" width="10" height="20" fill="rgb(139, 69, 19)" />
+
+  <!-- Bridge Supports -->
+  <rect x="90" y="170" width="5" height="20" fill="rgb(139, 69, 19)" />
+  <rect x="161" y="170" width="5" height="20" fill="rgb(139, 69, 19)" />
+</svg>

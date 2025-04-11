@@ -1,0 +1,27 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Silk Scarf with Gradient -->
+  <defs>
+    <linearGradient id="scarfGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(0, 0, 128)" />
+      <stop offset="100%" stop-color="rgb(25, 25, 112)" />
+    </linearGradient>
+  </defs>
+  <polygon points="128,20 80,120 128,220 176,120" fill="url(#scarfGradient)" />
+
+  <!-- Geometric Pattern -->
+  <circle cx="100" cy="80" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="140" cy="60" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="120" cy="100" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="160" cy="80" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="110" cy="140" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="150" cy="120" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="130" cy="160" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="170" cy="140" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="90" cy="100" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="130" cy="80" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="170" cy="100" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="110" cy="120" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="150" cy="140" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="130" cy="180" r="5" fill="rgb(50, 50, 150)" />
+  <circle cx="170" cy="160" r="5" fill="rgb(50, 50, 150)" />
+</svg>

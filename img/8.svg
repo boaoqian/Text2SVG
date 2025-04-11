@@ -1,0 +1,34 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (light winter blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(173, 216, 230)" />
+
+  <!-- Snowy Field -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(255, 255, 255)" />
+
+  <!-- Footprints -->
+  <g fill="rgb(200, 200, 200)">
+    <!-- Left Footprints -->
+    <ellipse cx="50" cy="180" rx="5" ry="3" />
+    <ellipse cx="70" cy="190" rx="5" ry="3" />
+    <ellipse cx="90" cy="180" rx="5" ry="3" />
+    <ellipse cx="110" cy="190" rx="5" ry="3" />
+    <ellipse cx="130" cy="180" rx="5" ry="3" />
+    <ellipse cx="150" cy="190" rx="5" ry="3" />
+    <ellipse cx="170" cy="180" rx="5" ry="3" />
+    <ellipse cx="190" cy="190" rx="5" ry="3" />
+    <ellipse cx="210" cy="180" rx="5" ry="3" />
+    <ellipse cx="230" cy="190" rx="5" ry="3" />
+
+    <!-- Right Footprints -->
+    <ellipse cx="60" cy="170" rx="5" ry="3" />
+    <ellipse cx="80" cy="160" rx="5" ry="3" />
+    <ellipse cx="100" cy="170" rx="5" ry="3" />
+    <ellipse cx="120" cy="160" rx="5" ry="3" />
+    <ellipse cx="140" cy="170" rx="5" ry="3" />
+    <ellipse cx="160" cy="160" rx="5" ry="3" />
+    <ellipse cx="180" cy="170" rx="5" ry="3" />
+    <ellipse cx="200" cy="160" rx="5" ry="3" />
+    <ellipse cx="220" cy="170" rx="5" ry="3" />
+    <ellipse cx="240" cy="160" rx="5" ry="3" />
+  </g>
+</svg>

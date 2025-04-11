@@ -1,0 +1,32 @@
+<svg viewBox="0 0 250 250" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define a grid of 5x5 squares in different shades of gray -->
+  <rect x="10" y="10" width="40" height="40" fill="rgb(50, 50, 50)" />
+  <rect x="60" y="10" width="40" height="40" fill="rgb(100, 100, 100)" />
+  <rect x="110" y="10" width="40" height="40" fill="rgb(150, 150, 150)" />
+  <rect x="160" y="10" width="40" height="40" fill="rgb(200, 200, 200)" />
+  <rect x="210" y="10" width="40" height="40" fill="rgb(250, 250, 250)" />
+
+  <rect x="10" y="60" width="40" height="40" fill="rgb(75, 75, 75)" />
+  <rect x="60" y="60" width="40" height="40" fill="rgb(125, 125, 125)" />
+  <rect x="110" y="60" width="40" height="40" fill="rgb(175, 175, 175)" />
+  <rect x="160" y="60" width="40" height="40" fill="rgb(225, 225, 225)" />
+  <rect x="210" y="60" width="40" height="40" fill="rgb(25, 25, 25)" />
+
+  <rect x="10" y="110" width="40" height="40" fill="rgb(90, 90, 90)" />
+  <rect x="60" y="110" width="40" height="40" fill="rgb(140, 140, 140)" />
+  <rect x="110" y="110" width="40" height="40" fill="rgb(190, 190, 190)" />
+  <rect x="160" y="110" width="40" height="40" fill="rgb(240, 240, 240)" />
+  <rect x="210" y="110" width="40" height="40" fill="rgb(40, 40, 40)" />
+
+  <rect x="10" y="160" width="40" height="40" fill="rgb(110, 110, 110)" />
+  <rect x="60" y="160" width="40" height="40" fill="rgb(160, 160, 160)" />
+  <rect x="110" y="160" width="40" height="40" fill="rgb(210, 210, 210)" />
+  <rect x="160" y="160" width="40" height="40" fill="rgb(30, 30, 30)" />
+  <rect x="210" y="160" width="40" height="40" fill="rgb(80, 80, 80)" />
+
+  <rect x="10" y="210" width="40" height="40" fill="rgb(130, 130, 130)" />
+  <rect x="60" y="210" width="40" height="40" fill="rgb(180, 180, 180)" />
+  <rect x="110" y="210" width="40" height="40" fill="rgb(230, 230, 230)" />
+  <rect x="160" y="210" width="40" height="40" fill="rgb(20, 20, 20)" />
+  <rect x="210" y="210" width="40" height="40" fill="rgb(70, 70, 70)" />
+</svg>

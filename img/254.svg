@@ -1,0 +1,11 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Left Boot -->
+  <path d="M50,160 C50,140 70,120 100,120 C130,120 150,140 150,160 L150,220 C150,240 130,260 100,260 C70,260 50,240 50,220 Z" fill="rgb(139,69,19)" stroke="black" stroke-width="2"/>
+  <!-- Left Boot Heel -->
+  <rect x="50" y="220" width="20" height="40" fill="rgb(139,69,19)" stroke="black" stroke-width="2"/>
+  
+  <!-- Right Boot -->
+  <path d="M160,160 C160,140 180,120 210,120 C240,120 260,140 260,160 L260,220 C260,240 240,260 210,260 C180,260 160,240 160,220 Z" fill="rgb(139,69,19)" stroke="black" stroke-width="2"/>
+  <!-- Right Boot Heel -->
+  <rect x="210" y="220" width="20" height="40" fill="rgb(139,69,19)" stroke="black" stroke-width="2"/>
+</svg>

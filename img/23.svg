@@ -1,0 +1,22 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Night Sky with gradient -->
+  <defs>
+    <linearGradient id="nightSkyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(0, 0, 51)" />
+      <stop offset="100%" stop-color="rgb(0, 0, 102)" />
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgb(255, 255, 255)" stop-opacity="1" />
+      <stop offset="100%" stop-color="rgb(255, 255, 255)" stop-opacity="0.5" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="256" fill="url(#nightSkyGradient)" />
+
+  <!-- Full Moon -->
+  <circle cx="200" cy="50" r="20" fill="url(#moonGlow)" />
+
+  <!-- Snow-Capped Mountain -->
+  <path d="M0,256 L80,100 L160,150 L256,256 Z" fill="rgb(50, 50, 50)" />
+  <path d="M80,100 L120,80 L160,150 L80,100 Z" fill="rgb(240, 240, 240)" />
+  <path d="M120,80 L160,150 L200,100 L120,80 Z" fill="rgb(220, 220, 220)" />
+</svg>

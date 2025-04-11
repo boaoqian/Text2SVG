@@ -1,0 +1,42 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sole of the sneaker -->
+  <rect x="50" y="180" width="156" height="20" fill="rgb(128, 128, 128)" rx="10" ry="10"/>
+  
+  <!-- Body of the sneaker -->
+  <path d="M60,100 C60,80 80,60 100,60 L156,60 C176,60 196,80 196,100 L196,180 L60,180 Z" fill="rgb(255, 255, 255)"/>
+  
+  <!-- Retro design stripes -->
+  <rect x="70" y="80" width="116" height="10" fill="rgb(255, 69, 0)"/> <!-- Orange stripe -->
+  <rect x="70" y="100" width="116" height="10" fill="rgb(0, 0, 128)"/> <!-- Navy stripe -->
+  <rect x="70" y="120" width="116" height="10" fill="rgb(255, 69, 0)"/> <!-- Orange stripe -->
+  
+  <!-- Laces -->
+  <rect x="80" y="130" width="96" height="4" fill="rgb(192, 192, 192)"/> <!-- Top lace -->
+  <rect x="80" y="140" width="96" height="4" fill="rgb(192, 192, 192)"/> <!-- Middle lace -->
+  <rect x="80" y="150" width="96" height="4" fill="rgb(192, 192, 192)"/> <!-- Bottom lace -->
+  
+  <!-- Logo or retro design element -->
+  <circle cx="128" cy="110" r="10" fill="rgb(0, 0, 128)" stroke="rgb(255, 69, 0)" stroke-width="2"/>
+  
+  <!-- Second sneaker -->
+  <g transform="translate(0, 40)">
+    <!-- Sole of the second sneaker -->
+    <rect x="50" y="180" width="156" height="20" fill="rgb(128, 128, 128)" rx="10" ry="10"/>
+    
+    <!-- Body of the second sneaker -->
+    <path d="M60,100 C60,80 80,60 100,60 L156,60 C176,60 196,80 196,100 L196,180 L60,180 Z" fill="rgb(255, 255, 255)"/>
+    
+    <!-- Retro design stripes -->
+    <rect x="70" y="80" width="116" height="10" fill="rgb(255, 69, 0)"/> <!-- Orange stripe -->
+    <rect x="70" y="100" width="116" height="10" fill="rgb(0, 0, 128)"/> <!-- Navy stripe -->
+    <rect x="70" y="120" width="116" height="10" fill="rgb(255, 69, 0)"/> <!-- Orange stripe -->
+    
+    <!-- Laces -->
+    <rect x="80" y="130" width="96" height="4" fill="rgb(192, 192, 192)"/> <!-- Top lace -->
+    <rect x="80" y="140" width="96" height="4" fill="rgb(192, 192, 192)"/> <!-- Middle lace -->
+    <rect x="80" y="150" width="96" height="4" fill="rgb(192, 192, 192)"/> <!-- Bottom lace -->
+    
+    <!-- Logo or retro design element -->
+    <circle cx="128" cy="110" r="10" fill="rgb(0, 0, 128)" stroke="rgb(255, 69, 0)" stroke-width="2"/>
+  </g>
+</svg>

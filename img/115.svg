@@ -1,0 +1,12 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 255, 255)" /> <!-- Light color -->
+      <stop offset="100%" stop-color="rgb(0, 0, 0)" /> <!-- Dark color -->
+    </linearGradient>
+  </defs>
+
+  <!-- Gradient Rectangle -->
+  <rect x="0" y="0" width="256" height="256" fill="url(#gradient)" />
+</svg>

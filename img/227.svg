@@ -1,0 +1,17 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sunglasses Frame -->
+  <path d="M50,100 L50,150 C50,170 70,180 90,180 L166,180 C186,180 206,170 206,150 L206,100 L166,100 L166,130 L90,130 L90,100 Z" fill="rgb(0, 0, 0)" />
+
+  <!-- Mirrored Lenses -->
+  <defs>
+    <linearGradient id="lensGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgb(192, 192, 192)" />
+      <stop offset="50%" stop-color="rgb(128, 128, 128)" />
+      <stop offset="100%" stop-color="rgb(192, 192, 192)" />
+    </linearGradient>
+  </defs>
+  <rect x="60" y="110" width="136" height="60" fill="url(#lensGradient)" />
+
+  <!-- Bridge of the Sunglasses -->
+  <rect x="120" y="130" width="16" height="20" fill="rgb(0, 0, 0)" />
+</svg>

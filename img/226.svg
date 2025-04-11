@@ -1,0 +1,35 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Maxi Dress Silhouette -->
+  <path d="M128,20 C80,20 40,60 40,120 V220 H216 V120 C216,60 176,20 128,20 Z" fill="rgb(200, 200, 250)" />
+
+  <!-- Floral Pattern -->
+  <g fill="rgb(255, 105, 180)">
+    <!-- Flower 1 -->
+    <circle cx="80" cy="80" r="10" />
+    <circle cx="80" cy="80" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 2 -->
+    <circle cx="120" cy="60" r="10" />
+    <circle cx="120" cy="60" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 3 -->
+    <circle cx="160" cy="80" r="10" />
+    <circle cx="160" cy="80" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 4 -->
+    <circle cx="100" cy="120" r="10" />
+    <circle cx="100" cy="120" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 5 -->
+    <circle cx="140" cy="100" r="10" />
+    <circle cx="140" cy="100" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 6 -->
+    <circle cx="180" cy="120" r="10" />
+    <circle cx="180" cy="120" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 7 -->
+    <circle cx="90" cy="160" r="10" />
+    <circle cx="90" cy="160" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 8 -->
+    <circle cx="130" cy="140" r="10" />
+    <circle cx="130" cy="140" r="5" fill="rgb(255, 255, 255)" />
+    <!-- Flower 9 -->
+    <circle cx="170" cy="160" r="10" />
+    <circle cx="170" cy="160" r="5" fill="rgb(255, 255, 255)" />
+  </g>
+</svg>

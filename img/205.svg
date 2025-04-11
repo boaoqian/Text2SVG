@@ -1,0 +1,30 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Skirt Base -->
+  <path d="M80,80 C80,120 100,140 128,140 C156,140 176,120 176,80 L176,200 C176,220 156,240 128,240 C100,240 80,220 80,200 Z" fill="rgb(255, 182, 193)" stroke="black" stroke-width="2"/>
+
+  <!-- Floral Patterns -->
+  <!-- Flower 1 -->
+  <circle cx="100" cy="100" r="8" fill="rgb(255, 105, 180)" />
+  <ellipse cx="100" cy="100" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(45, 100, 100)" />
+  <ellipse cx="100" cy="100" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(-45, 100, 100)" />
+
+  <!-- Flower 2 -->
+  <circle cx="140" cy="120" r="8" fill="rgb(255, 105, 180)" />
+  <ellipse cx="140" cy="120" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(45, 140, 120)" />
+  <ellipse cx="140" cy="120" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(-45, 140, 120)" />
+
+  <!-- Flower 3 -->
+  <circle cx="120" cy="160" r="8" fill="rgb(255, 105, 180)" />
+  <ellipse cx="120" cy="160" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(45, 120, 160)" />
+  <ellipse cx="120" cy="160" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(-45, 120, 160)" />
+
+  <!-- Flower 4 -->
+  <circle cx="160" cy="180" r="8" fill="rgb(255, 105, 180)" />
+  <ellipse cx="160" cy="180" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(45, 160, 180)" />
+  <ellipse cx="160" cy="180" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(-45, 160, 180)" />
+
+  <!-- Flower 5 -->
+  <circle cx="90" cy="180" r="8" fill="rgb(255, 105, 180)" />
+  <ellipse cx="90" cy="180" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(45, 90, 180)" />
+  <ellipse cx="90" cy="180" rx="4" ry="8" fill="rgb(255, 255, 255)" transform="rotate(-45, 90, 180)" />
+</svg>

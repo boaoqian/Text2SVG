@@ -1,0 +1,26 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Rocky Mountain -->
+  <defs>
+    <linearGradient id="mountainGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(139, 69, 19)" />
+      <stop offset="100%" stop-color="rgb(105, 105, 105)" />
+    </linearGradient>
+  </defs>
+  <polygon points="128,50 80,128 176,128" fill="url(#mountainGradient)" />
+  <polygon points="128,50 176,128 224,80" fill="url(#mountainGradient)" />
+
+  <!-- Valley with Grass -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- River in the Valley -->
+  <path d="M0,180 Q128,160 256,180 V200 H0 Z" fill="rgb(0, 191, 255)" />
+</svg>

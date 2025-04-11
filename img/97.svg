@@ -1,0 +1,22 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Rocky Mountain -->
+  <path d="M0,128 C50,80 100,100 150,70 C200,40 256,80 256,128 V256 H0 Z" fill="rgb(139, 69, 19)" />
+  <path d="M0,140 C50,100 100,120 150,90 C200,60 256,100 256,140 V256 H0 Z" fill="rgb(160, 82, 45)" />
+  <path d="M0,160 C50,120 100,140 150,110 C200,80 256,120 256,160 V256 H0 Z" fill="rgb(165, 42, 42)" />
+
+  <!-- Valley -->
+  <path d="M0,180 C50,160 100,180 150,150 C200,120 256,160 256,180 V256 H0 Z" fill="rgb(34, 139, 34)" />
+  <path d="M0,200 C50,180 100,200 150,170 C200,140 256,180 256,200 V256 H0 Z" fill="rgb(50, 205, 50)" />
+
+  <!-- River in the Valley -->
+  <path d="M0,220 C50,200 100,220 150,190 C200,160 256,200 256,220 V256 H0 Z" fill="rgb(0, 191, 255)" />
+</svg>

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Blazer outline -->
+  <path d="M128,20 C100,20 80,40 80,80 L80,200 C80,220 100,240 128,240 C156,240 176,220 176,200 L176,80 C176,40 156,20 128,20 Z" fill="none" stroke="black" stroke-width="2"/>
+
+  <!-- Blazer body -->
+  <rect x="80" y="80" width="96" height="120" fill="rgb(0, 0, 128)"/> <!-- Navy -->
+
+  <!-- Single button -->
+  <circle cx="128" cy="130" r="4" fill="white" stroke="black" stroke-width="1"/>
+</svg>

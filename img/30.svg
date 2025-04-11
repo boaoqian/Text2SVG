@@ -1,0 +1,61 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Water with gradient -->
+  <defs>
+    <linearGradient id="waterGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(0, 119, 190)" />
+      <stop offset="100%" stop-color="rgb(0, 191, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="128" width="256" height="128" fill="url(#waterGradient)" />
+
+  <!-- Lake (calm water) -->
+  <ellipse cx="128" cy="160" rx="80" ry="40" fill="url(#waterGradient)" />
+
+  <!-- Boats -->
+  <!-- Left Boat -->
+  <rect x="50" y="160" width="30" height="10" fill="rgb(139, 69, 19)" />
+  <polygon points="50,160 65,150 80,160" fill="rgb(139, 69, 19)" />
+
+  <!-- Right Boat -->
+  <rect x="176" y="160" width="30" height="10" fill="rgb(139, 69, 19)" />
+  <polygon points="176,160 191,150 206,160" fill="rgb(139, 69, 19)" />
+
+  <!-- Middle Boat -->
+  <rect x="113" y="170" width="30" height="10" fill="rgb(139, 69, 19)" />
+  <polygon points="113,170 128,160 143,170" fill="rgb(139, 69, 19)" />
+
+  <!-- Trees -->
+  <!-- Left Tree -->
+  <rect x="40" y="140" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="45" cy="130" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Right Tree -->
+  <rect x="206" y="140" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="211" cy="130" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Top Tree -->
+  <rect x="120" y="100" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="125" cy="90" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Bottom Tree -->
+  <rect x="120" y="180" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="125" cy="170" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Additional Trees -->
+  <!-- Left Middle Tree -->
+  <rect x="80" y="150" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="85" cy="140" r="20" fill="rgb(0, 100, 0)" />
+
+  <!-- Right Middle Tree -->
+  <rect x="166" y="150" width="10" height="40" fill="rgb(139, 69, 19)" />
+  <circle cx="171" cy="140" r="20" fill="rgb(0, 100, 0)" />
+</svg>

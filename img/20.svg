@@ -1,0 +1,40 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Rainbow -->
+  <path d="M128,80 Q128,40 168,40 Q208,40 208,80 Q208,120 168,120 Q128,120 128,80 Z" fill="none" stroke="rgba(255, 0, 0, 0.5)" stroke-width="10" />
+  <path d="M128,90 Q128,50 168,50 Q208,50 208,90 Q208,130 168,130 Q128,130 128,90 Z" fill="none" stroke="rgba(255, 165, 0, 0.5)" stroke-width="10" />
+  <path d="M128,100 Q128,60 168,60 Q208,60 208,100 Q208,140 168,140 Q128,140 128,100 Z" fill="none" stroke="rgba(255, 255, 0, 0.5)" stroke-width="10" />
+  <path d="M128,110 Q128,70 168,70 Q208,70 208,110 Q208,150 168,150 Q128,150 128,110 Z" fill="none" stroke="rgba(0, 255, 0, 0.5)" stroke-width="10" />
+  <path d="M128,120 Q128,80 168,80 Q208,80 208,120 Q208,160 168,160 Q128,160 128,120 Z" fill="none" stroke="rgba(0, 0, 255, 0.5)" stroke-width="10" />
+  <path d="M128,130 Q128,90 168,90 Q208,90 208,130 Q208,170 168,170 Q128,170 128,130 Z" fill="none" stroke="rgba(75, 0, 130, 0.5)" stroke-width="10" />
+  <path d="M128,140 Q128,100 168,100 Q208,100 208,140 Q208,180 168,180 Q128,180 128,140 Z" fill="none" stroke="rgba(128, 0, 128, 0.5)" stroke-width="10" />
+
+  <!-- Grassy Hill Base Layer -->
+  <path d="M0,128 C50,100 100,150 150,120 C200,90 256,128 256,128 V256 H0 Z" fill="rgb(34, 139, 34)" />
+
+  <!-- Grassy Hill Middle Layer -->
+  <path d="M0,140 C50,120 100,160 150,130 C200,100 256,140 256,140 V256 H0 Z" fill="rgb(50, 205, 50)" />
+
+  <!-- Grassy Hill Top Layer -->
+  <path d="M0,160 C50,140 100,180 150,150 C200,120 256,160 256,160 V256 H0 Z" fill="rgb(124, 252, 0)" />
+
+  <!-- Wildflowers -->
+  <circle cx="50" cy="180" r="5" fill="rgb(255, 0, 0)" />
+  <circle cx="80" cy="160" r="5" fill="rgb(255, 255, 0)" />
+  <circle cx="120" cy="190" r="5" fill="rgb(255, 0, 255)" />
+  <circle cx="150" cy="170" r="5" fill="rgb(0, 255, 0)" />
+  <circle cx="200" cy="180" r="5" fill="rgb(255, 165, 0)" />
+  <circle cx="230" cy="160" r="5" fill="rgb(128, 0, 128)" />
+  <circle cx="30" cy="150" r="4" fill="rgb(255, 192, 203)" />
+  <circle cx="100" cy="140" r="4" fill="rgb(0, 255, 255)" />
+  <circle cx="180" cy="150" r="4" fill="rgb(255, 215, 0)" />
+  <circle cx="220" cy="140" r="4" fill="rgb(75, 0, 130)" />
+</svg>

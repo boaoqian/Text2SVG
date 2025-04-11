@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with desert gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 223, 186)" />
+      <stop offset="100%" stop-color="rgb(250, 214, 165)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Sand Dune Base Layer -->
+  <path d="M0,128 C50,140 100,120 150,140 C200,160 256,128 256,128 V256 H0 Z" fill="rgb(233, 196, 106)" />
+
+  <!-- Sand Dune Middle Layer -->
+  <path d="M0,150 C50,160 100,140 150,160 C200,180 256,150 256,150 V256 H0 Z" fill="rgb(245, 222, 179)" />
+
+  <!-- Sand Dune Top Layer -->
+  <path d="M0,170 C50,180 100,160 150,180 C200,200 256,170 256,170 V256 H0 Z" fill="rgb(255, 228, 181)" />
+</svg>

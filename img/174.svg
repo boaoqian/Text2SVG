@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Pastel Pink Circle -->
+  <circle cx="70" cy="90" r="45" fill="rgb(245, 172, 183)" opacity="0.8" />
+
+  <!-- Pastel Blue Ellipse -->
+  <ellipse cx="140" cy="110" rx="55" ry="35" fill="rgb(163, 206, 220)" opacity="0.8" />
+
+  <!-- Pastel Yellow Polygon -->
+  <polygon points="190,40 240,90 190,140 140,90" fill="rgb(245, 229, 203)" opacity="0.8" />
+
+  <!-- Pastel Green Circle -->
+  <circle cx="170" cy="170" r="35" fill="rgb(142, 241, 142)" opacity="0.8" />
+
+  <!-- Pastel Purple Ellipse -->
+  <ellipse cx="90" cy="190" rx="45" ry="25" fill="rgb(211, 150, 211)" opacity="0.8" />
+
+  <!-- Pastel Orange Circle -->
+  <circle cx="40" cy="140" r="25" fill="rgb(245, 208, 175)" opacity="0.8" />
+
+  <!-- Pastel Teal Ellipse -->
+  <ellipse cx="210" cy="70" rx="35" ry="25" fill="rgb(165, 228, 228)" opacity="0.8" />
+
+  <!-- Pastel Lavender Polygon -->
+  <polygon points="20,70 70,40 120,70 70,100" fill="rgb(220, 220, 240)" opacity="0.8" />
+</svg>

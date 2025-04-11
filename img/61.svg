@@ -1,0 +1,21 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Rocky Shoreline -->
+  <path d="M0,128 C50,140 100,120 150,140 C200,160 256,128 256,128 V256 H0 Z" fill="rgb(139, 69, 19)" />
+  <path d="M0,140 C50,150 100,130 150,150 C200,170 256,140 256,140 V256 H0 Z" fill="rgb(160, 82, 45)" />
+  <path d="M0,160 C50,170 100,150 150,170 C200,190 256,160 256,160 V256 H0 Z" fill="rgb(165, 42, 42)" />
+
+  <!-- Seagulls -->
+  <path d="M50,50 Q60,40 70,50 T90,50" stroke="rgb(255, 255, 255)" stroke-width="2" fill="none" />
+  <path d="M100,70 Q110,60 120,70 T140,70" stroke="rgb(255, 255, 255)" stroke-width="2" fill="none" />
+  <path d="M150,40 Q160,30 170,40 T190,40" stroke="rgb(255, 255, 255)" stroke-width="2" fill="none" />
+  <path d="M200,60 Q210,50 220,60 T240,60" stroke="rgb(255, 255, 255)" stroke-width="2" fill="none" />
+</svg>

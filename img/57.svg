@@ -1,0 +1,18 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sandy Beach -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(244, 164, 96)" />
+
+  <!-- Wooden Pier Base -->
+  <rect x="100" y="140" width="56" height="10" fill="rgb(139, 69, 19)" />
+
+  <!-- Wooden Pier Legs -->
+  <rect x="100" y="150" width="5" height="30" fill="rgb(139, 69, 19)" />
+  <rect x="151" y="150" width="5" height="30" fill="rgb(139, 69, 19)" />
+
+  <!-- Wooden Pier Platform -->
+  <rect x="90" y="180" width="76" height="10" fill="rgb(139, 69, 19)" />
+
+  <!-- Wooden Pier Legs for Platform -->
+  <rect x="90" y="190" width="5" height="20" fill="rgb(139, 69, 19)" />
+  <rect x="161" y="190" width="5" height="20" fill="rgb(139, 69, 19)" />
+</svg>

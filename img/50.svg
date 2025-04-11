@@ -1,0 +1,29 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with winter gradient -->
+  <defs>
+    <linearGradient id="winterSkyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(173, 216, 230)" />
+      <stop offset="100%" stop-color="rgb(240, 248, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#winterSkyGradient)" />
+
+  <!-- Snowy Ground -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(255, 255, 255)" />
+
+  <!-- Cabin -->
+  <rect x="100" y="150" width="60" height="50" fill="rgb(139, 69, 19)" />
+  <polygon points="100,150 130,120 160,150" fill="rgb(165, 42, 42)" />
+
+  <!-- Snowflakes -->
+  <circle cx="50" cy="50" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="80" cy="30" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="120" cy="60" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="150" cy="40" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="200" cy="50" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="230" cy="30" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="30" cy="80" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="100" cy="90" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="180" cy="70" r="2" fill="rgb(255, 255, 255)" />
+  <circle cx="220" cy="100" r="2" fill="rgb(255, 255, 255)" />
+</svg>

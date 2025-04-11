@@ -1,0 +1,16 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(0, 121, 184)" />
+
+  <!-- Rocky Cliff -->
+  <path d="M0,128 C50,100 100,150 150,120 C200,90 256,128 256,128 V256 H0 Z" fill="rgb(139, 69, 19)" />
+  <path d="M0,140 C50,120 100,160 150,130 C200,100 256,140 256,140 V256 H0 Z" fill="rgb(160, 82, 45)" />
+  <path d="M0,160 C50,140 100,180 150,150 C200,120 256,160 256,160 V256 H0 Z" fill="rgb(139, 69, 19)" />
+
+  <!-- Ocean -->
+  <rect x="0" y="180" width="256" height="76" fill="rgb(0, 0, 139)" />
+
+  <!-- Ocean Waves -->
+  <path d="M0,180 Q64,170 128,180 T256,180 V200 H0 Z" fill="rgb(0, 191, 255)" opacity="0.5" />
+  <path d="M0,190 Q64,180 128,190 T256,190 V210 H0 Z" fill="rgb(0, 191, 255)" opacity="0.5" />
+</svg>

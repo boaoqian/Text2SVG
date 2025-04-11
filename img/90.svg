@@ -1,0 +1,50 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(0, 191, 255)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Prairie (green grass) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(34, 139, 34)" />
+
+  <!-- Sunflowers -->
+  <!-- Sunflower 1 -->
+  <g transform="translate(50, 180)">
+    <circle cx="0" cy="0" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(0)" /> <!-- Petals -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(45)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(135)" />
+  </g>
+
+  <!-- Sunflower 2 -->
+  <g transform="translate(120, 190)">
+    <circle cx="0" cy="0" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(0)" /> <!-- Petals -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(45)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(135)" />
+  </g>
+
+  <!-- Sunflower 3 -->
+  <g transform="translate(200, 180)">
+    <circle cx="0" cy="0" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(0)" /> <!-- Petals -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(45)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(135)" />
+  </g>
+
+  <!-- Sunflower 4 -->
+  <g transform="translate(80, 160)">
+    <circle cx="0" cy="0" r="10" fill="rgb(139, 69, 19)" /> <!-- Center -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(0)" /> <!-- Petals -->
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(45)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(90)" />
+    <ellipse cx="0" cy="0" rx="20" ry="10" fill="rgb(255, 215, 0)" transform="rotate(135)" />
+  </g>
+</svg>

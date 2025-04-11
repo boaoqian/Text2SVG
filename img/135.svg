@@ -1,0 +1,34 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Pastel Pink Circle -->
+  <circle cx="60" cy="80" r="40" fill="rgb(255, 182, 193)" opacity="0.8" />
+
+  <!-- Pastel Blue Ellipse -->
+  <ellipse cx="180" cy="100" rx="50" ry="30" fill="rgb(173, 216, 230)" opacity="0.8" />
+
+  <!-- Pastel Yellow Polygon -->
+  <polygon points="220,40 250,90 220,140 190,90" fill="rgb(255, 239, 213)" opacity="0.8" />
+
+  <!-- Pastel Green Circle -->
+  <circle cx="140" cy="180" r="35" fill="rgb(152, 251, 152)" opacity="0.8" />
+
+  <!-- Pastel Purple Ellipse -->
+  <ellipse cx="80" cy="200" rx="45" ry="25" fill="rgb(221, 160, 221)" opacity="0.8" />
+
+  <!-- Pastel Orange Circle -->
+  <circle cx="30" cy="150" r="25" fill="rgb(255, 218, 185)" opacity="0.8" />
+
+  <!-- Pastel Teal Ellipse -->
+  <ellipse cx="200" cy="60" rx="35" ry="25" fill="rgb(175, 238, 238)" opacity="0.8" />
+
+  <!-- Pastel Lavender Polygon -->
+  <polygon points="40,70 90,40 140,70 90,100" fill="rgb(230, 230, 250)" opacity="0.8" />
+
+  <!-- Additional Pastel Red Rectangle -->
+  <rect x="120" y="20" width="60" height="40" fill="rgb(255, 204, 203)" opacity="0.8" />
+
+  <!-- Additional Pastel Mint Triangle -->
+  <polygon points="160,160 200,160 180,120" fill="rgb(189, 252, 201)" opacity="0.8" />
+
+  <!-- Additional Pastel Peach Circle -->
+  <circle cx="220" cy="200" r="30" fill="rgb(255, 218, 185)" opacity="0.8" />
+</svg>

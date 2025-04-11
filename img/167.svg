@@ -1,0 +1,76 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Define gradients -->
+  <defs>
+    <!-- Pastel Pink Gradient -->
+    <linearGradient id="pinkGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 182, 193)" />
+      <stop offset="100%" stop-color="rgb(255, 105, 180)" />
+    </linearGradient>
+
+    <!-- Pastel Blue Gradient -->
+    <linearGradient id="blueGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(173, 216, 230)" />
+      <stop offset="100%" stop-color="rgb(70, 130, 180)" />
+    </linearGradient>
+
+    <!-- Pastel Yellow Gradient -->
+    <linearGradient id="yellowGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 239, 213)" />
+      <stop offset="100%" stop-color="rgb(255, 215, 0)" />
+    </linearGradient>
+
+    <!-- Pastel Green Gradient -->
+    <linearGradient id="greenGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(152, 251, 152)" />
+      <stop offset="100%" stop-color="rgb(34, 139, 34)" />
+    </linearGradient>
+
+    <!-- Pastel Purple Gradient -->
+    <linearGradient id="purpleGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(221, 160, 221)" />
+      <stop offset="100%" stop-color="rgb(147, 112, 219)" />
+    </linearGradient>
+
+    <!-- Pastel Orange Gradient -->
+    <linearGradient id="orangeGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(255, 218, 185)" />
+      <stop offset="100%" stop-color="rgb(255, 140, 0)" />
+    </linearGradient>
+
+    <!-- Pastel Teal Gradient -->
+    <linearGradient id="tealGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(175, 238, 238)" />
+      <stop offset="100%" stop-color="rgb(0, 128, 128)" />
+    </linearGradient>
+
+    <!-- Pastel Lavender Gradient -->
+    <linearGradient id="lavenderGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgb(230, 230, 250)" />
+      <stop offset="100%" stop-color="rgb(138, 43, 226)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Pastel Pink Circle -->
+  <circle cx="80" cy="100" r="50" fill="url(#pinkGradient)" opacity="0.8" />
+
+  <!-- Pastel Blue Ellipse -->
+  <ellipse cx="150" cy="120" rx="60" ry="40" fill="url(#blueGradient)" opacity="0.8" />
+
+  <!-- Pastel Yellow Polygon -->
+  <polygon points="200,50 250,100 200,150 150,100" fill="url(#yellowGradient)" opacity="0.8" />
+
+  <!-- Pastel Green Circle -->
+  <circle cx="180" cy="180" r="40" fill="url(#greenGradient)" opacity="0.8" />
+
+  <!-- Pastel Purple Ellipse -->
+  <ellipse cx="100" cy="200" rx="50" ry="30" fill="url(#purpleGradient)" opacity="0.8" />
+
+  <!-- Pastel Orange Circle -->
+  <circle cx="50" cy="150" r="30" fill="url(#orangeGradient)" opacity="0.8" />
+
+  <!-- Pastel Teal Ellipse -->
+  <ellipse cx="220" cy="80" rx="40" ry="30" fill="url(#tealGradient)" opacity="0.8" />
+
+  <!-- Pastel Lavender Polygon -->
+  <polygon points="30,80 80,50 130,80 80,110" fill="url(#lavenderGradient)" opacity="0.8" />
+</svg>

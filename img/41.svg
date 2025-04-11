@@ -1,0 +1,28 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky with gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(135, 206, 235)" />
+      <stop offset="100%" stop-color="rgb(173, 216, 230)" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="128" fill="url(#skyGradient)" />
+
+  <!-- Horizon Line -->
+  <line x1="0" y1="128" x2="256" y2="128" stroke="rgb(173, 216, 230)" stroke-width="2" />
+
+  <!-- Rocky Outcrop -->
+  <polygon points="0,128 50,100 100,150 150,120 200,150 256,128 256,256 0,256" fill="rgb(139, 69, 19)" />
+
+  <!-- Additional Rock Layers -->
+  <polygon points="50,140 80,120 120,160 150,130 200,160 256,140 256,256 50,256" fill="rgb(101, 67, 33)" />
+  <polygon points="100,160 130,140 170,180 200,150 256,170 256,256 100,256" fill="rgb(82, 54, 28)" />
+
+  <!-- Small Rocks -->
+  <circle cx="30" cy="180" r="8" fill="rgb(101, 67, 33)" />
+  <circle cx="70" cy="160" r="6" fill="rgb(82, 54, 28)" />
+  <circle cx="120" cy="190" r="7" fill="rgb(139, 69, 19)" />
+  <circle cx="150" cy="170" r="5" fill="rgb(101, 67, 33)" />
+  <circle cx="200" cy="180" r="6" fill="rgb(82, 54, 28)" />
+  <circle cx="230" cy="160" r="5" fill="rgb(139, 69, 19)" />
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" width="256" height="256">
+  <!-- Sky (blue) -->
+  <rect x="0" y="0" width="256" height="128" fill="rgb(135, 206, 250)" />
+
+  <!-- Lake (blue) -->
+  <rect x="0" y="128" width="256" height="128" fill="rgb(0, 121, 184)" />
+
+  <!-- Wooden Dock -->
+  <rect x="100" y="140" width="56" height="10" fill="rgb(139, 69, 19)" />
+  <rect x="100" y="150" width="5" height="30" fill="rgb(139, 69, 19)" />
+  <rect x="151" y="150" width="5" height="30" fill="rgb(139, 69, 19)" />
+
+  <!-- Trees on the left side -->
+  <rect x="20" y="100" width="10" height="30" fill="rgb(139, 69, 19)" />
+  <circle cx="25" cy="90" r="15" fill="rgb(34, 139, 34)" />
+
+  <!-- Trees on the right side -->
+  <rect x="226" y="100" width="10" height="30" fill="rgb(139, 69, 19)" />
+  <circle cx="231" cy="90" r="15" fill="rgb(34, 139, 34)" />
+
+  <!-- Reflection of the dock in the water -->
+  <rect x="100" y="180" width="56" height="5" fill="rgba(139, 69, 19, 0.5)" />
+  <rect x="100" y="185" width="5" height="10" fill="rgba(139, 69, 19, 0.5)" />
+  <rect x="151" y="185" width="5" height="10" fill="rgba(139, 69, 19, 0.5)" />
+</svg>

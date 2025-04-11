@@ -1,0 +1,29 @@
+<svg viewBox="0 0 100 150" width="100" height="150">
+  <!-- Sweater Body with gradient -->
+  <defs>
+    <linearGradient id="sweaterGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgb(128, 128, 128)" />
+      <stop offset="100%" stop-color="rgb(96, 96, 96)" />
+    </linearGradient>
+  </defs>
+  <rect x="20" y="30" width="60" height="100" rx="10" ry="10" fill="url(#sweaterGradient)" />
+
+  <!-- High Neck with more detail -->
+  <rect x="30" y="20" width="40" height="10" rx="5" ry="5" fill="rgb(128, 128, 128)" />
+  <rect x="30" y="10" width="40" height="10" rx="5" ry="5" fill="rgb(128, 128, 128)" />
+
+  <!-- Armholes -->
+  <path d="M20,50 Q30,40 40,50" fill="none" stroke="rgb(128, 128, 128)" stroke-width="2" />
+  <path d="M60,50 Q70,40 80,50" fill="none" stroke="rgb(128, 128, 128)" stroke-width="2" />
+
+  <!-- Bottom Curve -->
+  <path d="M20,130 Q50,140 80,130" fill="none" stroke="rgb(128, 128, 128)" stroke-width="2" />
+
+  <!-- Additional texture lines on the sweater -->
+  <line x1="25" y1="40" x2="25" y2="120" stroke="rgb(96, 96, 96)" stroke-width="1" />
+  <line x1="35" y1="40" x2="35" y2="120" stroke="rgb(96, 96, 96)" stroke-width="1" />
+  <line x1="45" y1="40" x2="45" y2="120" stroke="rgb(96, 96, 96)" stroke-width="1" />
+  <line x1="55" y1="40" x2="55" y2="120" stroke="rgb(96, 96, 96)" stroke-width="1" />
+  <line x1="65" y1="40" x2="65" y2="120" stroke="rgb(96, 96, 96)" stroke-width="1" />
+  <line x1="75" y1="40" x2="75" y2="120" stroke="rgb(96, 96, 96)" stroke-width="1" />
+</svg>
